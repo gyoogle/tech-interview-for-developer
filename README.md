@@ -1,8 +1,9 @@
 # Dev_BasicKnowledge
-개발자(Developer)가 갖춰야 할 기본 지식 정리
+💻개발자(Developer)가 갖춰야 할 기본 지식 정리✏️
 
 <br>
-
+시작 : 2019.03.01 ~
+(정리중ing~😆)
 <br>
 
 ### Concept
