@@ -44,7 +44,7 @@
 
 
 
-```
+```java
 public void heapSort(int[] array) {
     int n = array.length;
     
@@ -85,7 +85,7 @@ public void heapSort(int[] array) {
 
 
 
-```
+```java
 public void heapify(int array[], int n, int i) {
     int p = i;
     int l = i*2 + 1;
@@ -132,7 +132,7 @@ public void heapify(int array[], int n, int i) {
 
 ##### 전체 소스 코드
 
-```
+```java
 private void solve() {
     int[] array = { 230, 10, 60, 550, 40, 220, 20 };
  

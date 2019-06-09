@@ -12,7 +12,7 @@
 
 
 
-```
+```java
 public void quickSort(int[] array, int left, int right) {
     
     if(left >= right) return;
@@ -33,7 +33,7 @@ public void quickSort(int[] array, int left, int right) {
 
 
 
-```
+```java
 public int partition(int[] array, int left, int right) {
     int pivot = array[left];
     int i = left, j = right;
@@ -84,7 +84,7 @@ But,  퀵 정렬도 요소들이 역순으로 존재할 때 최악의 경우로 
 
 
 
-```
+```java
 public int partition(int[] array, int left, int right) {
     int mid = (left + right) / 2;
     swap(array, left, mid);
@@ -98,7 +98,7 @@ public int partition(int[] array, int left, int right) {
 
 
 
-```
+```java
 private void solve() {
     int[] array = { 80, 70, 60, 50, 40, 30, 20 };
     quicksort(array, 0, array.length - 1);
