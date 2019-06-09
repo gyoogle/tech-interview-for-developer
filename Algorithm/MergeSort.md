@@ -30,7 +30,7 @@
 
 - mergeSort
 
-```
+```java
 public void mergeSort(int[] array, int left, int right) {
     
     if(left < right) {
@@ -58,7 +58,7 @@ public void mergeSort(int[] array, int left, int right) {
 
 - merge()
 
-```
+```java
 public static void merge(int[] array, int left, int mid, int right) {
     int[] L = Arrays.copyOfRange(array, left, mid + 1);
     int[] R = Arrays.copyOfRange(array, mid + 1, right + 1);
@@ -116,7 +116,7 @@ public static void merge(int[] array, int left, int mid, int right) {
 
 
 
-```
+```java
 private void solve() {
     int[] array = { 230, 10, 60, 550, 40, 220, 20 };
  
