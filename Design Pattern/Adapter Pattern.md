@@ -58,7 +58,7 @@
 
 - Duck.java
 
-```
+```java
 package AdapterPattern;
 
 public interface Duck {
@@ -71,7 +71,7 @@ public interface Duck {
 
 - Turkey.java
 
-```
+```java
 package AdapterPattern;
 
 public interface Turkey {
@@ -84,7 +84,7 @@ public interface Turkey {
 
 -  WildTurkey.java
 
-```
+```java
 package AdapterPattern;
 
 public class WildTurkey implements Turkey {
@@ -103,7 +103,7 @@ public class WildTurkey implements Turkey {
 
 
 
-```
+```java
 package AdapterPattern;
 
 public class WildTurkey implements Turkey {
@@ -122,7 +122,7 @@ public class WildTurkey implements Turkey {
 
 - TurkeyAdapter.java
 
-```
+```java
 package AdapterPattern;
 
 public class TurkeyAdapter implements Duck {
@@ -150,7 +150,7 @@ public class TurkeyAdapter implements Duck {
 
 - DuckTest.java
 
-```
+```java
 package AdapterPattern;
 
 public class DuckTest {
