@@ -16,6 +16,7 @@
 ### Data Structure
 
 - [스택 & 큐](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Stack%20%26%20Queue.md)
+- [힙](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Heap.md>)
 
 ### Algorithm
 
