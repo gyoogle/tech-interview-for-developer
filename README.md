@@ -12,11 +12,16 @@
 - [클린코드 & 리팩토링](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Clean%20Code%20%26%20Refactoring.md)
 - [TDD(Test Driven Development)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/TDD(Test%20Driven%20Development).md)
 - [브라우저 동작 방법](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md>)
+- [웹 서버와 WAS의 차이점](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md>)
+
+<br>
 
 ### [Data Structure](<https://github.com/kim6394/Dev_BasicKnowledge#자료구조>)
 
 - [스택 & 큐](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Stack%20%26%20Queue.md)
 - [힙](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Heap.md>)
+
+<br>
 
 ### Algorithm
 
@@ -26,7 +31,7 @@
 - 카운팅소트
 - Radix소트
 
-
+<br>
 
 ### Operation System
 
@@ -36,9 +41,13 @@
 - [페이지 교체 알고리즘](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Page%20Replacement%20Algorithm.md)
 - [메모리](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Memory.md)
 
+<br>
+
 ### Database
 
 - [트랜잭션](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction.md)
+
+<br>
 
 ### Design Pattern
 
@@ -46,10 +55,14 @@
 - [싱글톤 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Singleton%20Pattern.md)
 
 <br>
-<br><br>
+
 <br>
 
+<br>
 
+<br>
+
+<br>
 
 ## 자료구조
 
