@@ -237,3 +237,51 @@ var vote_changed = function (old_vote, new_vote) {
 이클립스와 같은 IDE 도구로 이용
 
 <br>
+
+
+
+### 시큐어 코딩
+
+> 안전한 소프트웨어를 개발하기 위해, 소스코드 등에 존재할 수 있는 잠재적인 보안약점을 제거하는 것
+
+<br>
+
+##### 보안 약점을 노려 발생하는 사고사례들
+
+- SQL 인젝션 취약점으로 개인유출 사고 발생
+- URL 파라미터 조작 개인정보 노출
+- 무작위 대입공격 기프트카드 정보 유출
+
+<br>
+
+##### SQL 인젝션 예시
+
+- 안전하지 않은 코드
+
+```
+String query "SELECT * FROM users WHERE userid = '" + userid + "'" + "AND password = '" + password + "'";
+
+Statement stmt = connection.createStatement();
+ResultSet rs = stmt.executeQuery(query);
+```
+
+<br>
+
+- 안전한 코드
+
+```
+String query "SELECT * FROM users WHERE userid = ? + "AND password = ?";
+
+PrepareStatement stmt = connection.prepareStatement(query);
+stmt.setString(1, userid);
+stmt.setString(2, password);
+ResultSet rs = stmt.executeQuery();
+```
+
+적절한 검증 작업이 수행되어야 안전함
+
+<br>
+
+입력받는 값으 변수를 `$` 대신 `#`을 사용하면서 바인딩 처리로 시큐어 코딩이 가능하다.
+
+<br>
