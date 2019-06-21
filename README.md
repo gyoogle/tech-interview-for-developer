@@ -61,6 +61,7 @@
 ### 면접(Interview) 질문 모음
 
 - [언어(Java, C++ ... )](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#언어>)
+- [운영체제](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#운영체제>)
 - [데이터베이스](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#데이터베이스>)
 
 <br>
