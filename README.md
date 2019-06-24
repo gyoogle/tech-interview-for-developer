@@ -60,6 +60,12 @@
 
 <br>
 
+### AI
+
+- [용어 정리]()
+
+<br>
+
 ### 면접(Interview) 질문 모음
 
 - [언어(Java, C++ ... )](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#언어>)
