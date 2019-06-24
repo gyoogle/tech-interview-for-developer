@@ -62,7 +62,7 @@
 
 ### AI
 
-- [용어 정리]()
+- [용어 정리](<https://github.com/kim6394/Dev_BasicKnowledge/tree/master/AI>)
 
 <br>
 
