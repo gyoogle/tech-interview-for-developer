@@ -17,6 +17,12 @@
 
 <br>
 
+### Computer Architecture
+
+- [중앙처리장치(CPU) 작동 원리](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98(CPU)%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md>)
+
+<br>
+
 ### [Data Structure](<https://github.com/kim6394/Dev_BasicKnowledge#자료구조>)
 
 - [Array & ArrayList & LinkedList](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
