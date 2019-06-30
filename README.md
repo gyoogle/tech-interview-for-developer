@@ -12,8 +12,6 @@
 - [자바 가상 머신(Java Virtual Machine)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md>)
 - [클린코드 & 리팩토링](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Clean%20Code%20%26%20Refactoring.md) / [클린코드 & 시큐어코딩](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
 - [TDD(Test Driven Development)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/TDD(Test%20Driven%20Development).md)
-- [브라우저 동작 방법](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md>)
-- [웹 서버와 WAS의 차이점](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md>)
 - [애자일(Agile) 정리1](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md>) / [애자일(Agile) 정리2](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile)2.md)
 
 <br>
@@ -65,6 +63,14 @@
 - [싱글톤 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Singleton%20Pattern.md)
 - 옵저버 패턴
 - 팩토리 패턴
+
+<br>
+
+### Web
+
+- [브라우저 동작 방법](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md>)
+- [웹 서버와 WAS의 차이점](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md>)
+- [Vue CLI + Spring Boot 연동하여 환경 구축하기](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md>)
 
 <br>
 
