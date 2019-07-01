@@ -1,10 +1,10 @@
 ## Call by value와 Call by reference
 
-
+<br>
 
 상당히 기본적인 질문이지만, 헷갈리기 쉬운 주제다.
 
-
+<br>
 
 #### call by value
 
@@ -21,7 +21,7 @@ call by value 호출 방식은 함수 호출 시 전달되는 변수 값을 복�
 따라서, 함수 안에서 인자 값이 변경되더라도, 외부 변수 값은 변경안됨
 ```
 
-
+<br>
 
 ##### 예시
 
@@ -39,7 +39,7 @@ void main() {
 
 > printf로 출력되는 값은 그대로 10이 출력된다.
 
-
+<br>
 
 #### call by reference
 
@@ -63,9 +63,9 @@ void main() {
 
 > printf로 출력되는 값은 20이 된다.
 
+<br>
 
-
-
+<br>
 
 #### Java 함수 호출 방식
 
@@ -84,7 +84,7 @@ String은 약간 특이하다.
 String은 참조 자료형이지만, Java에서 동작할 때는 원시 자료형처럼 적용된다.
 ```
 
-
+<br>
 
 #### 정리
 
