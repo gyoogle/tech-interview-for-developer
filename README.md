@@ -18,6 +18,16 @@
 
 <br>
 
+### Language
+
+- [C언어 컴파일 과정](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Language/C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md>)
+- [객체지향 프로그래밍](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Object-Oriented%20Programming.md)
+- [자바 가상 머신(Java Virtual Machine)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md>)
+- [Call by Value vs Call by Reference](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Call%20by%20value%EC%99%80%20Call%20by%20reference.md>)
+- [Java의 Thread 활용](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md>)
+
+<br>
+
 ### Computer Architecture
 
 - [컴퓨터의 구성](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md>)
