@@ -53,6 +53,7 @@
 ### Operation System
 
 - [프로세스 vs 스레드](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Process%20vs%20Thread.md)
+- [IPC 통신](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/IPC(Inter%20Process%20Communication).md>)
 - [데드락](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/DeadLock.md)
 - [페이징 & 세그먼테이션](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Paging%20and%20Segmentation.pdf))
 - [페이지 교체 알고리즘](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Page%20Replacement%20Algorithm.md)
