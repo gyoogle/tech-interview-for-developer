@@ -19,6 +19,7 @@
 ### Language
 
 - [C언어 컴파일 과정](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Language/C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md>)
+- [Java 컴파일 과정](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Language/%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [Call by Value vs Call by Reference](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Call%20by%20value%EC%99%80%20Call%20by%20reference.md>)
 - [객체지향 프로그래밍](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Object-Oriented%20Programming.md)
 - [자바 가상 머신(Java Virtual Machine)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md>)
@@ -84,6 +85,8 @@
 - [쿠키(Cookie) & 세션(Session)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Cookie%20%26%20Session.md>)
 - [웹 서버와 WAS의 차이점](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md>)
 - [Vue CLI + Spring Boot 연동하여 환경 구축하기](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md>)
+- [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
+- [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
 
 <br>
 
