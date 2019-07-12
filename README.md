@@ -87,6 +87,7 @@
 - [Vue CLI + Spring Boot 연동하여 환경 구축하기](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md>)
 - [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
 - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
+- [Nuxt.js란](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Nuxt.js.md>)
 
 <br>
 
