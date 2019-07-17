@@ -67,6 +67,7 @@
 ### Database
 
 - [트랜잭션](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction.md)
+- [SQL vs NoSQL](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 <br>
 
@@ -84,6 +85,7 @@
 - [브라우저 동작 방법](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md>)
 - [쿠키(Cookie) & 세션(Session)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Cookie%20%26%20Session.md>)
 - [웹 서버와 WAS의 차이점](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md>)
+- [OAuth](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/OAuth.md>)
 
 
 
