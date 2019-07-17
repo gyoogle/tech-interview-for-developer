@@ -19,7 +19,7 @@ public class MaxHeap {
 			heap.add(val);
 			int p = heap.size() - 1;
 			// 루트까지 이동, 자식노드가 더 크면 swap
-			while(p < 1 || heap.get(p / 2) < heap.get(p)) {
+			while(p > 1 && heap.get(p / 2) < heap.get(p)) {
 				int temp = heap.get(p / 2);
 				heap.set(p/2, heap.get(p));
 				heap.set(p, temp);

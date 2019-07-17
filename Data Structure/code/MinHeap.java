@@ -22,7 +22,7 @@ public class MinHeap {
 			int p = heap.size() - 1;
 			
 			// 힙 사이즈 - 1이 1보다 작아질 때까지 진행 -> root로 이동
-			while(p < 1 || heap.get(p / 2) > heap.get(p)) {
+			while(p > 1 && heap.get(p / 2) > heap.get(p)) {
 				System.out.println("swap");
 				// 부모보다 자식 노드가 더 작으면 바꿔야 함 (최소힙)
 				int tmp = heap.get(p/2);
