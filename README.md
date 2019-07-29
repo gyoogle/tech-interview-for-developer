@@ -36,6 +36,8 @@
 
 ### [Data Structure](<https://github.com/kim6394/Dev_BasicKnowledge#자료구조>)
 
+- [Array](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Array.md)
+- [Linked List](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Linked%20List.md)
 - [Array & ArrayList & LinkedList](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
 - [스택 & 큐](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Stack%20%26%20Queue.md)
 - [힙](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Heap.md>)
