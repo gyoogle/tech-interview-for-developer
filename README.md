@@ -71,6 +71,7 @@
 
 - [트랜잭션](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction.md)
 - [SQL vs NoSQL](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+- [Redis](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Redis.md>)
 
 <br>
 
