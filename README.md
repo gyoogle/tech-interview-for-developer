@@ -51,8 +51,7 @@
 - [퀵소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/QuickSort.md)
 - [머지소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/MergeSort.md)
 - [힙소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
-- 카운팅소트
-- Radix소트
+- [해시 테이블 구현](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
 
 <br>
 
