@@ -53,7 +53,7 @@
 - [머지소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/MergeSort.md)
 - [힙소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
 - [해시 테이블 구현](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
-- [최장 증가 수열(LIS)]([https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LIS (Longest Increasing Sequence).md)
+- [최장 증가 수열(LIS)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
 
 <br>
 
