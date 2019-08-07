@@ -25,6 +25,7 @@
 - [객체지향 프로그래밍](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Object-Oriented%20Programming.md)
 - [자바 가상 머신(Java Virtual Machine)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md>)
 - [Java의 Thread 활용](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md>)
+- [가상 함수(Virtual Function)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Language/%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md>)
 
 <br>
 
@@ -51,8 +52,7 @@
 - [퀵소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/QuickSort.md)
 - [머지소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/MergeSort.md)
 - [힙소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
-- 카운팅소트
-- Radix소트
+- [해시 테이블 구현](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
 
 <br>
 
