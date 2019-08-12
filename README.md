@@ -11,6 +11,8 @@
 
 ### Concept
 
+---
+
 - [클린코드 & 리팩토링](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Clean%20Code%20%26%20Refactoring.md) / [클린코드 & 시큐어코딩](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
 - [TDD(Test Driven Development)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/TDD(Test%20Driven%20Development).md)
 - [애자일(Agile) 정리1](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md>) / [애자일(Agile) 정리2](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile)2.md)
@@ -18,6 +20,8 @@
 <br>
 
 ### Language
+
+---
 
 - [C언어 컴파일 과정](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Language/C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md>)
 - [Java 컴파일 과정](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Language/%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
@@ -32,12 +36,16 @@
 
 ### Computer Architecture
 
+---
+
 - [컴퓨터의 구성](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md>)
 - [중앙처리장치(CPU) 작동 원리](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98(CPU)%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md>)
 
 <br>
 
 ### [Data Structure](<https://github.com/kim6394/Dev_BasicKnowledge#자료구조>)
+
+---
 
 - [Array](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Array.md)
 - [Linked List](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Linked%20List.md)
@@ -52,6 +60,8 @@
 
 ### Algorithm
 
+---
+
 - [퀵소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/QuickSort.md)
 - [머지소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/MergeSort.md)
 - [힙소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
@@ -61,6 +71,8 @@
 <br>
 
 ### Operation System
+
+---
 
 - [프로세스 vs 스레드](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Process%20vs%20Thread.md)
 - [프로세스 주소 공간](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Process%20Address%20Space.md>)
@@ -75,6 +87,8 @@
 
 ### Database
 
+---
+
 - [트랜잭션](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction.md)
 - [SQL vs NoSQL](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [Redis](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Redis.md>)
@@ -82,6 +96,8 @@
 <br>
 
 ### Design Pattern
+
+---
 
 - [어댑터 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Adapter%20Pattern.md)
 - [싱글톤 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Singleton%20Pattern.md)
@@ -91,6 +107,8 @@
 <br>
 
 ### Web
+
+---
 
 - [브라우저 동작 방법](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md>)
 - [쿠키(Cookie) & 세션(Session)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Web/Cookie%20%26%20Session.md>)
@@ -110,11 +128,15 @@
 
 ### AI
 
+---
+
 - [용어 정리](<https://github.com/kim6394/Dev_BasicKnowledge/tree/master/AI>)
 
 <br>
 
 ### 면접(Interview) 질문 모음
+
+---
 
 - [언어(Java, C++ ... )](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#언어>)
 - [운영체제](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#운영체제>)
