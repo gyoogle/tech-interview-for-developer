@@ -44,6 +44,7 @@
 - [스택 & 큐](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Stack%20%26%20Queue.md)
 - [힙](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Heap.md>)
 - [해시(Hash)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Hash.md>)
+- [트라이(Trie)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/Trie.md)
 - [B-Tree & B+Tree](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/B%20Tree%20%26%20B%2B%20Tree.md)
 
 <br>
