@@ -461,4 +461,53 @@ rear+1%size가 front와 같으면 가득찬 것
 
 ##### 연결리스트 큐는 크기가 제한이 없고 삽입, 삭제가 편리
 
-(추가)
+<br>
+
+##### enqueue 구현
+
+```java
+public void enqueue(E item) {
+    Node oldlast = tail; // 기존의 tail 임시 저장
+    tail = new Node; // 새로운 tail 생성
+    tail.item = item;
+    tail.next = null;
+    if(isEmpty()) head = tail; // 큐가 비어있으면 head와 tail 모두 같은 노드 가리킴
+    else oldlast.next = tail; // 비어있지 않으면 기존 tail의 next = 새로운 tail로 설정
+}
+```
+
+> - 데이터 추가는 끝 부분인 tail에 한다.
+>
+> - 기존의 tail는 보관하고, 새로운 tail 생성
+>
+> - 큐가 비었으면 head = tail를 통해 둘이 같은 노드를 가리키도록 한다.
+> - 큐가 비어있지 않으면, 기존 tail의 next에 새로만든 tail를 설정해준다.
+
+<br>
+
+##### dequeue 구현
+
+```java
+public T dequeue() {
+    // 비어있으면
+    if(isEmpty()) {
+        tail = head;
+        return null;
+    }
+    // 비어있지 않으면
+    else {
+        T item = head.item; // 빼낼 현재 front 값 저장
+        head = head.next; // front를 다음 노드로 설정
+        return item;
+    }
+}
+```
+
+> - 데이터는 head로부터 꺼낸다. (가장 먼저 들어온 것부터 빼야하므로)
+> - head의 데이터를 미리 저장해둔다.
+> - 기존의 head를 그 다음 노드의 head로 설정한다.
+> - 저장해둔 데이터를 return 해서 값을 빼온다.
+
+<br>
+
+이처럼 삽입은 tail, 제거는 head로 하면서 삽입/삭제를 스택처럼 O(1)에 가능하도록 구현이 가능하다.
