@@ -134,7 +134,7 @@ void insert_max_heap(int x) {
 
 <br>
 
-###### 최소 힙 삭제 구현
+###### 최대 힙 삭제 구현
 
 ```java
 int delete_max_heap() {
