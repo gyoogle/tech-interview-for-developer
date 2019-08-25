@@ -67,6 +67,7 @@
 - [힙소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
 - [해시 테이블 구현](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
 - [최장 증가 수열(LIS)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
+- [최소 공통 조상(LCA)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md>)
 
 <br>
 
@@ -89,7 +90,7 @@
 
 ---
 
-- [흐름제어와 혼잡제어](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md>)
+- [흐름제어와 혼잡제어](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/TCP(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%2C%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md>)
 
 <br>
 
