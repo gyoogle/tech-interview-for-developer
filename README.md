@@ -145,6 +145,14 @@
 
 <br>
 
+#### Big Data
+
+---
+
+- [데이터 분석](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
+
+<br>
+
 ### 면접(Interview) 질문 모음
 
 ---
