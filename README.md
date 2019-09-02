@@ -91,6 +91,7 @@
 ---
 
 - [흐름제어와 혼잡제어](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/TCP(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%2C%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md>)
+- [UDP](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/UDP/2019.08.26.(%EC%9B%94)%20%5BBYM%5D%20UDP%EB%9E%80.md)
 
 <br>
 
@@ -102,6 +103,7 @@
 - [트랜잭션 격리 수준](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction%20Isolation%20Level.md)
 - [SQL vs NoSQL](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [Redis](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Redis.md>)
+- [SQL Injection](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%20Injection.md)
 
 <br>
 
@@ -111,8 +113,7 @@
 
 - [어댑터 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Adapter%20Pattern.md)
 - [싱글톤 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Singleton%20Pattern.md)
-- 옵저버 패턴
-- 팩토리 패턴
+- [탬플릿 메소드 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Template%20Method%20Pattern.md)
 
 <br>
 
@@ -141,6 +142,14 @@
 ---
 
 - [용어 정리](<https://github.com/kim6394/Dev_BasicKnowledge/tree/master/AI>)
+
+<br>
+
+#### Big Data
+
+---
+
+- [데이터 분석](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
 
 <br>
 
