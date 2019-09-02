@@ -12,3 +12,9 @@ http://www.notforme.kr/archives/1631
 
 그 후, 작업 시작
 
+---
+1. 저장소 미러링 하기
+
+https://github.com/GimunLee/ssafy-second-semester-ai-sub1.git
+
+
