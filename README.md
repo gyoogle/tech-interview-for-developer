@@ -62,9 +62,11 @@
 
 ---
 
-- [퀵소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/QuickSort.md)
-- [머지소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/MergeSort.md)
-- [힙소트](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
+- [퀵 정렬](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/QuickSort.md)
+- [병합 정렬](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/MergeSort.md)
+- [힙 정렬](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/HeapSort.md)
+- [기수 정렬](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Sort_Radix.md>)
+- [계수 정렬](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Sort_Counting.md>)
 - [해시 테이블 구현](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
 - [최장 증가 수열(LIS)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
 - [최소 공통 조상(LCA)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md>)
