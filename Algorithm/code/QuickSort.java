@@ -1,67 +1,42 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.StringTokenizer;
 
 public class QuickSort {
 	
-	static int[] input;
-	static int N;
-
+	static int[] arr = {5, 1, 1, 2, 1, 4, 4, 4, 5, 5};
+	
 	public static void main(String[] args) throws Exception {
 		
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		quickSort(arr, 0, arr.length-1);
 		
-		N = Integer.parseInt(br.readLine());
-		input = new int[N];
-		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+		System.out.println(Arrays.toString(arr));
 		
-		for (int i = 0; i < input.length; i++) {
-			input[i] = Integer.parseInt(st.nextToken());
-		}
-		
-		quickSort(0, N-1);
-		
-		for (int i = 0; i < input.length; i++) {
-			System.out.print(input[i] + " ");
-		}
-		System.out.println();
 	}
 	
-	public static void swap(int a, int b) { 
-		int temp = input[a];
-		input[a] = input[b];
-		input[b] = temp;
-	}
-	
-	public static void quickSort(int first, int last) {
+	public static void quickSort(int[] arr, int start, int end) {
 		
-		if(first < last) {
+		if(start >= end) return;
+		
+		if(start < end) {
 			
-			int pivot = (first+last)/2;
-			int i = first;
-			int j = last;
+			int i = start-1;
+			int j = end+1;
+			int pivot = arr[(start+end)/2];
 			
-			while( i < j ) {
-				while (input[i] <= input[pivot] && i < last) {
-					i++;
-				}
+			while(i < j) {
 				
-				while (input[j] > input[pivot]) {
-					j--;
-				}
+				while(arr[++i] < pivot) {}
+				while(arr[--j] > pivot) {}
 				
-				if (i < j) {
-					swap(i, j);
-				}
+				if (i >= j) break;
+				
+				int temp = arr[i];
+				arr[i] = arr[j];
+				arr[j] = temp;
 			}
 			
-			swap(pivot, j);
-			
-			quickSort(first, j - 1);
-			quickSort(j+1, last);
+			quickSort(arr, start, i-1);
+			quickSort(arr, j+1, end);
 		}
 		
 	}
-
 }
