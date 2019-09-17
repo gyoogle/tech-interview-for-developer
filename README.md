@@ -80,6 +80,14 @@
 
 <br>
 
+- 코딩 테스트
+
+  - [삼성 SW 역량 테스트 A형 대비 문제](<https://www.acmicpc.net/workbook/view/1152>)
+
+  - [삼성 SW 역량 테스트 B형 대비 문제](https://github.com/kim6394/Dev_BasicKnowledge/tree/master/Algorithm/SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20B%ED%98%95%20%EC%A4%80%EB%B9%84)
+
+<br>
+
 ### Operation System
 
 ---
