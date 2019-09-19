@@ -15,6 +15,6 @@ http://www.notforme.kr/archives/1631
 ---
 1. 저장소 미러링 하기
 
-https://github.com/GimunLee/ssafy-second-semester-ai-sub1.git
+https://lazyren.github.io/devlog/gitlab-to-github-repo-clone.html
 
 
