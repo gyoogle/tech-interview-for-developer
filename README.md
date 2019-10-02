@@ -110,6 +110,7 @@
 
 - [흐름제어와 혼잡제어](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/TCP(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%2C%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md>)
 - [UDP](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/UDP/2019.08.26.(%EC%9B%94)%20%5BBYM%5D%20UDP%EB%9E%80.md)
+- [대칭키 & 공개키](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md>)
 
 <br>
 
