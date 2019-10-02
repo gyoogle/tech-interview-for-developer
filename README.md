@@ -133,6 +133,7 @@
 - [어댑터 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Adapter%20Pattern.md)
 - [싱글톤 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Singleton%20Pattern.md)
 - [탬플릿 메소드 패턴](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Template%20Method%20Pattern.md)
+- [팩토리 메소드 패턴](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Design%20Pattern/Design%20Pattern_Factory%20Method.md>)
 
 <br>
 
