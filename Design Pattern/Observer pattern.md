@@ -73,8 +73,10 @@
           observers.remove(index); 
       }
       
-      @Override public void notifyObserver() { 			for(Observer observer : observers) { 				observer.update(title, news); 
-          } 
+      @Override public void notifyObserver() {
+          for(Observer observer : observers) {
+             observer.update(title, news); 
+          }
       } 
       
       public void setNewsInfo(String title, String news) { 
