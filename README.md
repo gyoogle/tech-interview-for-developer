@@ -20,7 +20,7 @@
 
 ---
 
-- [클린코드 & 리팩토링](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Clean%20Code%20%26%20Refactoring.md) / [클린코드 & 시큐어코딩](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
+- [클린코드 & 리팩토링](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/Clean%20Code%20%26%20Refactoring.md) / [클린코드 & 시큐어코딩](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding)%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.md)
 - [TDD(Test Driven Development)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/TDD(Test%20Driven%20Development).md)
 - [애자일(Agile) 정리1](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md>) / [애자일(Agile) 정리2](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Concept/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile)2.md)
 
