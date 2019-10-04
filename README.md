@@ -95,6 +95,7 @@
 
 - [프로세스 vs 스레드](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Process%20vs%20Thread.md)
 - [프로세스 주소 공간](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/Process%20Address%20Space.md>)
+- [시스템 콜](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md)
 - [PCB와 Context Switching](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/PCB%20%26%20Context%20Switcing.md>)
 - [IPC 통신](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/IPC(Inter%20Process%20Communication).md>)
 - [데드락](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Operation%20System/DeadLock.md)
