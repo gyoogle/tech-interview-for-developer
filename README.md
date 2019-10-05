@@ -121,6 +121,9 @@
 
 - [트랜잭션](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction.md)
 - [트랜잭션 격리 수준](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Transaction%20Isolation%20Level.md)
+- [DB INDEX](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/%5BDB%5D%20Index.md>)
+- [DB 정규화](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/%5BDB%5D%20Anomaly.md>)
+- [SQL - JOIN](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/%5BDatabase%20SQL%5D%20JOIN.md>)
 - [SQL vs NoSQL](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [Redis](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/Redis.md>)
 - [SQL Injection](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Database/SQL%20Injection.md)
