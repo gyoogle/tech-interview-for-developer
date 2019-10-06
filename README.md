@@ -47,6 +47,7 @@
 
 - [컴퓨터의 구성](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md>)
 - [중앙처리장치(CPU) 작동 원리](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98(CPU)%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md>)
+- [패리티 비트 & 해밍 코드](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Computer%20Architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%20%EB%B9%84%ED%8A%B8%20%26%20%ED%95%B4%EB%B0%8D%20%EC%BD%94%EB%93%9C.md>)
 
 <br>
 
