@@ -160,6 +160,5 @@ public class DuckTest {
 	}
 }
 ```
-
 아까 확인한 클래스 다이어그램에서 Target은 오리에 해당하며, Adapter는 칠면조라고 생각하면 된다.
 
