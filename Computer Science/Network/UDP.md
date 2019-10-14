@@ -9,6 +9,7 @@
   - User Datagram Protocol의 약자로 데이터를 데이터그램 단위로 처리하는 프로토콜이다. 
   - 비연결형, 신뢰성 없는 전송 프로토콜이다.
   - 데이터그램 단위로 쪼개면서 전송을 해야하기 때문에 전송 계층이다.
+  - Transport layer에서 사용하는 프로토콜.
 
 - TCP와 UDP는 왜 나오게 됐는가?
 
@@ -38,13 +39,68 @@
   - DNS : port 53번
   - But, TCP를 사용할 때가 있다! 크기가 512(UDP 제한)이 넘을 때, TCP를 사용해야한다. 
 
+<br>
+
 #### 1. UDP Header
 
-> <img src='https://t1.daumcdn.net/cfile/tistory/272A5A385759267B36'>
->
-> - Source port : 시작 포트
-> - Destination port : 도착지 포트
-> - Length : 길이
-> - _Checksum_ : 오류 검출
->   - 중복 검사의 한 형태로, 오류 정정을 통해 공간이나 시간 속에서 송신된 자료의 무결성을 보호하는 단순한 방법이다.
->     - 
+- <img src='https://t1.daumcdn.net/cfile/tistory/272A5A385759267B36'>
+  - Source port : 시작 포트
+  - Destination port : 도착지 포트
+  - Length : 길이
+  - _Checksum_ : 오류 검출
+    - 중복 검사의 한 형태로, 오류 정정을 통해 공간이나 시간 속에서 송신된 자료의 무결성을 보호하는 단순한 방법이다.
+
+<br>
+
+- 이렇게 간단하므로, TCP 보다 용량이 가볍고 송신 속도가 빠르게 작동됨. 
+
+- 그러나 확인 응답을 못하므로, TCP보다 신뢰도가 떨어짐. 
+- UDP는 비연결성, TCP는 연결성으로 정의할 수 있음.
+
+<br>
+
+#### DNS과 UDP 통신 프로토콜을 사용함.
+
+DNS는 데이터를 교환하는 경우임
+
+이때, TCP를 사용하게 되면, 데이터를 송신할 때까지 세션 확립을 위한 처리를 하고, 송신한 데이터가 수신되었는지 점검하는 과정이 필요하므로, Protocol overhead가 UDP에 비해서 큼.
+
+------
+
+DNS는 Application layer protocol임.
+
+모든 Application layer protocol은 TCP, UDP 중 하나의 Transport layer protocol을 사용해야 함.
+
+(TCP는 reliable, UDP는 not reliable임) / DNS는 reliable해야할 것 같은데 왜 UDP를 사용할까?
+
+
+
+사용하는 이유 
+
+1. TCP가 3-way handshake를 사용하는 반면, UDP는 connection 을 유지할 필요가 없음.
+
+2. DNS request는 UDP segment에 꼭 들어갈 정도로 작음.
+
+   DNS query는 single UDP request와 server로부터의 single UDP reply로 구성되어 있음.
+
+3. UDP는 not reliable이나, reliability는 application layer에 추가될 수 있음.
+   (Timeout 추가나, resend 작업을 통해)
+
+DNS는 UDP를 53번 port에서 사용함.
+
+------
+
+그러나 TCP를 사용하는 경우가 있음.
+
+Zone transfer 을 사용해야하는 경우에는 TCP를 사용해야 함.
+
+(Zone Transfer : DNS 서버 간의 요청을 주고 받을 떄 사용하는 transfer)
+
+만약에 데이터가 512 bytes를 넘거나, 응답을 못받은 경우 TCP로 함.
+
+<br>
+
+[ref]<br>
+
+- <https://www.geeksforgeeks.org/why-does-dns-use-udp-and-not-tcp/>
+- <https://support.microsoft.com/en-us/help/556000>
