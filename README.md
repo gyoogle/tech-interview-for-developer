@@ -189,6 +189,6 @@
 ## 📌 Seminar
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
-- [2019 삼성전자 비전캠프]()
+- [2019 삼성전자 비전캠프](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EB%B9%84%EC%A0%84%EC%BA%A0%ED%94%84.md)
 
 <br>
