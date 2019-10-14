@@ -110,11 +110,11 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 ## 📌 Interview
 
-- [언어(Java, C++ ... )](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#언어>)
-- [운영체제](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#운영체제>)
-- [데이터베이스](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#데이터베이스>)
-- [네트워크](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#네트워크)
-- [웹(스프링)](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#스프링)
+- [언어(Java, C++ ... )](https://github.com/kim6394/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#언어)
+- [운영체제](https://github.com/kim6394/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#운영체제)
+- [데이터베이스](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#데이터베이스>)
+- [네트워크](https://github.com/kim6394/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#네트워크)
+- [웹(스프링)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#스프링)
 
 <br>
 
