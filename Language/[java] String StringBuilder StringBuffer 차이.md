@@ -18,6 +18,8 @@
 
 *String 클래스 : 문자열 연산이 적고, 조회가 많은 멀티쓰레드 환경에서 좋음*
 
+<br>
+
 #### 2. StringBuffer, StringBuilder 특징
 
 - 공통점
@@ -26,6 +28,8 @@
   - StringBuffer와  StringBuilder 클래스의 메서드가 동일함.
 - 차이점
   - StringBuffer는 Thread-Safe함 / StringBuilder는 Thread-safe하지 않음 (불가능)
+  
+ <br>
 
 *StringBuffer 클래스 : 문자열 연산이 많은 Multi-Thread 환경*
 
