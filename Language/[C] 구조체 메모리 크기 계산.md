@@ -99,3 +99,10 @@ typedef struct student {
 
 <img src="http://postfiles4.naver.net/20150930_83/sharonichoya_1443600192056XIAc4_PNG/%B1%D7%B8%B24.png?type=w2">
 
+<br>
+
+<br>
+
+##### [참고자료]
+
+[링크](<http://blog.naver.com/PostView.nhn?blogId=sharonichoya&logNo=220495444611>)
