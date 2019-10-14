@@ -1,5 +1,7 @@
 ## Vue.js + Firebase로 페이스북(facebook) 로그인 연동하기
 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbDIKm5%2FbtqwCrAc0kZ%2FtkCKCfOi1OLeyIkI8vmpe1%2Fimg.png">
+
 <br>
 
 우선, 기존의 파이어베이스 콘솔에서 Authentication의 로그인 방법으로 들어가자
@@ -8,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%20%EC%82%AC%EC%9A%A9%20%EC%84%A4%EC%A0%95.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbgObPY%2FbtqwBPBBzJ0%2F2CogtLkNhAE0exbMVUKSu1%2Fimg.jpg">
 
 <br>
 
@@ -16,7 +18,7 @@
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%20%EC%82%AC%EC%9A%A9%20%EC%A0%80%EC%9E%A5.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fb7WzfJ%2FbtqwCRyLtJZ%2F8tyKM9EK7kFx4BIDUWbQy0%2Fimg.jpg">
 
 <br>
 
@@ -32,7 +34,7 @@
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbKAP4Y%2FbtqwFB9fgIc%2FNStytIGaIHK2ernu7JHuk1%2Fimg.jpg">
 
 <br>
 
@@ -44,13 +46,13 @@
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%EC%A0%9C%ED%92%88%20%EC%B6%94%EA%B0%80.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FGQpSa%2FbtqwExeWknp%2FQm6AkZnEyOh9aQvwIYXzqK%2Fimg.jpg">
 
 이중에 'Facebook 로그인'항목이 우리가 필요한 것이다.
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/Facebook%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%A4%EC%A0%95.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FB06Xm%2FbtqwCpJd5b4%2FIxI9SmhR85xTgCRYkTEFv0%2Fimg.jpg">
 
 <br>
 
@@ -62,7 +64,7 @@
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%20%EC%95%B1%20%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EC%A0%95.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FlHRPy%2FbtqwFPzp8he%2FvmBIHktkzGMIrMMYMo6fCk%2Fimg.jpg">
 
 <br>
 
@@ -82,7 +84,7 @@
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%20%EC%82%AC%EC%9A%A9%20%EC%A0%80%EC%9E%A5.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fc5QEd8%2FbtqwCRk8Tsz%2Fk2DlVAZkD4mgLmKoifN4hK%2Fimg.jpg">
 
 다시 파이어베이스로 돌아가서, 앱ID와 앱 비밀번호를 입력하자
 
@@ -293,13 +295,13 @@ style을 통해 페이스북 로그인 화면도 꾸민 상태다.
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FUVSvA%2FbtqwCP1TKip%2FZUhB0sUvM0cBgedWNQdx00%2Fimg.jpg">
 
 <br>
 
 페이스북 로고 사진을 누르면?
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%99%94%EB%A9%B4.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FmyOvv%2FbtqwFAP25Id%2F3mEekrZxZJBR97JwK9O2U1%2Fimg.jpg">
 
 페이스북 로그인 창이 팝업으로 뜨는걸 확인할 수 있다.
 
@@ -309,7 +311,7 @@ style을 통해 페이스북 로그인 화면도 꾸민 상태다.
 
 마지막으로 파이어베이스에 사용자 정보가 저장된 데이터를 확인해보자
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue-social-login/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%99%95%EC%9D%B8.JPG?raw=true">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbbnHdk%2FbtqwCrmHfn1%2FdeNFk5k34JKfLJvB2JSASK%2Fimg.jpg">
 
 <br>
 
