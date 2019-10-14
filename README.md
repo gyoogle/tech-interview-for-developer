@@ -1,11 +1,16 @@
 # tech-interview-for-developer
 #### 👶🏻 신입 개발자의 성공적인 기술 면접을 위한 백과사전 📖
 
- Since : 2019.03.01 
+**Since** : 2019.03.01 
 
-Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
+**Collaborator** : [kim6394](https://github.com/kim6394), [Ricky](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
+
+**Commit 컨벤션 규칙** : 날짜-[주제]-내용-상태
+
+`ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete`
 
 잘못된 내용은 이슈로 알려주세요 💡
+
 ##### 👨🏻‍🏫 [기술 면접 감 잡기](<https://github.com/kim6394/tech-interview-for-developer/tree/master/Interview#%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0>) 👩🏻‍🏫
 ------
 
@@ -135,15 +140,10 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 ## 📌 Web
 
 - [브라우저 동작 방법](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
-
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
-
 - [REST API](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
-
 - [웹 서버와 WAS의 차이점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-
 - [OAuth](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/OAuth.md>)
-
 - [PWA(Progressive Web App)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
 
 - #### Vue.js
@@ -189,5 +189,6 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 ## 📌 Seminar
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
+- [2019 삼성전자 비전캠프]()
 
 <br>
