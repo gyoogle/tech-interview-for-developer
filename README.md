@@ -68,6 +68,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
   - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%2C%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
   - [UDP](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP/2019.08.26.(%EC%9B%94)%20%5BBYM%5D%20UDP%EB%9E%80.md)
   - [대칭키 & 공개키](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
+  - [HTTP & HTTPS](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md)
 
   <br>
 
