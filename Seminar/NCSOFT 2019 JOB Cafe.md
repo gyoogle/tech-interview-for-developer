@@ -12,4 +12,4 @@
 
 - NCSOFT 소개
 
-  <img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/run%20%ED%99%94%EB%A9%B4.JPG?raw=true">
+  <img src="https://github.com/GimunLee/tech-interview-for-developer/blob/master/resources/ncsoft.jpg?raw=true">
