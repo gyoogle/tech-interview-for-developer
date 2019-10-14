@@ -11,7 +11,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Algorithm
+## 📌 Algorithm
 
 - [퀵 정렬(Quick Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
 - [병합 정렬(Merge Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
@@ -25,7 +25,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Computer Science
+## 📌 Computer Science
 
 - ### Computer Architecture
 
@@ -97,7 +97,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Design Pattern
+## 📌 Design Pattern
 
 - [어댑터 패턴](https://github.com/kim6394/tech-interview-for-developer/blob/master/Design%20Pattern/Adapter%20Pattern.md)
 - [싱글톤 패턴](https://github.com/kim6394/tech-interview-for-developer/blob/master/Design%20Pattern/Singleton%20Pattern.md)
@@ -108,7 +108,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Interview
+## 📌 Interview
 
 - [언어(Java, C++ ... )](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#언어>)
 - [운영체제](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#운영체제>)
@@ -118,7 +118,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Language
+## 📌 Language
 
 - [[c] C언어 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[cpp] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bcpp%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
@@ -130,7 +130,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Web
+## 📌 Web
 
 - [브라우저 동작 방법](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
@@ -148,7 +148,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## New Technology
+## 📌 New Technology
 
 - AI
   - [용어 정리](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/AI/README.md)
@@ -163,7 +163,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
-## Seminar
+## 📌 Seminar
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
 
