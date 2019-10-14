@@ -128,6 +128,7 @@
 ## 📌 Language
 
 - [[C] C언어 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
+- [[C] 구조체 메모리 크기 계산](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
 - [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bcpp%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
 - [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
