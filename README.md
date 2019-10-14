@@ -163,6 +163,14 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 
 <br>
 
+## 📌 ETC
+
+- [GitHub Fork로 협업하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
+- [GitHub 저장소(repository) 미러링](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
+- [시사상식](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
+
+<br>
+
 ## 📌 Seminar
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
