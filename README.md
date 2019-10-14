@@ -69,6 +69,7 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
   - [UDP](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP/2019.08.26.(%EC%9B%94)%20%5BBYM%5D%20UDP%EB%9E%80.md)
   - [대칭키 & 공개키](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
   - [HTTP & HTTPS](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md)
+  - [로드 밸런싱(Load Balancing)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 
   <br>
 
@@ -134,28 +135,41 @@ Collaborator : [kim6394](https://github.com/kim6394), [Ricky](<https://github.co
 ## 📌 Web
 
 - [브라우저 동작 방법](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
+
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
+
+- [REST API](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
+
 - [웹 서버와 WAS의 차이점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
 - [OAuth](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/OAuth.md>)
+
 - [PWA(Progressive Web App)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
-- Vue.js
+
+- #### Vue.js
+  
   - [Vue.js 라이프사이클](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
   - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
   - [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
   - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
   - [Nuxt.js란](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Nuxt.js.md>)
-- React
+  
+- #### React
+  
   - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 
 <br>
 
 ## 📌 New Technology
 
-- AI
+- #### AI
+  
   - [용어 정리](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/AI/README.md)
-- Big Data
+- #### Big Data
+  
   - [데이터 분석](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
-- IT Issues
+- #### IT Issues
+  
   - [이메일 공격 증가로 보안업계 대응 비상(19.08.07)](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.07%5D%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EA%B3%B5%EA%B2%A9%20%EC%A6%9D%EA%B0%80%EB%A1%9C%20%EB%B3%B4%EC%95%88%EC%97%85%EA%B3%84%20%EB%8C%80%EC%9D%91%20%EB%B9%84%EC%83%81.md)
   - [쿠팡 서비스 오류(19.08.08)](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
   - [GraphQL(19.08.08)](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
