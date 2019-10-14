@@ -11,7 +11,12 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-##### 👨🏻‍🏫 [기술 면접 감 잡기](<https://github.com/kim6394/tech-interview-for-developer/tree/master/Interview#%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0>) 👩🏻‍🏫
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>)
+
+<br>
+
+#### 👨🏻‍🏫 [기술 면접 감 잡기](<https://github.com/kim6394/tech-interview-for-developer/tree/master/Interview#%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0>) 👩🏻‍🏫
+
 ------
 
 <br>
