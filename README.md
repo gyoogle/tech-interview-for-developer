@@ -5,7 +5,7 @@
 
 **Collaborator** : [kim6394](https://github.com/kim6394), [Ricky](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
 
-**Commit 컨벤션 규칙** : 날짜-[주제]-내용-상태
+**Commit convention rule** : 날짜-[주제]-내용-상태
 
 `ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete`
 
