@@ -11,7 +11,12 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-##### 👨🏻‍🏫 [기술 면접 감 잡기](<https://github.com/kim6394/tech-interview-for-developer/tree/master/Interview#%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0>) 👩🏻‍🏫
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>)
+
+<br>
+
+#### 👨🏻‍🏫 [기술 면접 감 잡기](<https://github.com/kim6394/tech-interview-for-developer/tree/master/Interview#%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0>) 👩🏻‍🏫
+
 ------
 
 <br>
@@ -70,8 +75,8 @@
 
   - [OSI 7 계층](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/OSI%207%20계층.md)
   - [TCP 3 way handshake & 4 way handshake](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
-  - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%2C%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)/%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
-  - [UDP](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP/2019.08.26.(%EC%9B%94)%20%5BBYM%5D%20UDP%EB%9E%80.md)
+  - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
+  - [UDP](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP.md#20190826%EC%9B%94-bym-udp%EB%9E%80)
   - [대칭키 & 공개키](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
   - [HTTP & HTTPS](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md)
   - [로드 밸런싱(Load Balancing)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
@@ -129,6 +134,7 @@
 
 - [[C] C언어 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[C] 구조체 메모리 크기 계산](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
+- [[C] 포인터(Pointer)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%ED%8F%AC%EC%9D%B8%ED%84%B0(Pointer).md>)
 - [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bcpp%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
 - [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
@@ -184,6 +190,7 @@
 - [GitHub Fork로 협업하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/GitHub%20Fork%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md#github-fork%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
 - [GitHub 저장소(repository) 미러링](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
 - [시사상식](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EC%8B%9C%EC%82%AC%20%EC%83%81%EC%8B%9D.md#%EC%8B%9C%EC%82%AC-%EC%83%81%EC%8B%9D)
+- [반도체 개념정리](<https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EB%B0%98%EB%8F%84%EC%B2%B4%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md>)
 
 <br>
 
@@ -191,5 +198,6 @@
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
 - [2019 삼성전자 비전캠프](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EB%B9%84%EC%A0%84%EC%BA%A0%ED%94%84.md)
+- [NCSOFT 2019 JOB Cafe](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Seminar/NCSOFT%202019%20JOB%20Cafe.md#2019-10-02-ncsoft-job-cafe)
 
 <br>
