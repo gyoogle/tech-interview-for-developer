@@ -13,7 +13,7 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>)
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>)
 
 <br>
 
@@ -140,9 +140,11 @@
 - [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bcpp%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
 - [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
+- [[Java] String & StringBuffer & StringBuilder](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20String%20StringBuilder%20StringBuffer%20%EC%B0%A8%EC%9D%B4.md>)
 - [[Java] 자바 가상 머신(Java Virtual Machine)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md)
-- [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
 - [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
+- [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
+- [[Java] 고유 락(Intrinsic Lock)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Intrinsic%20Lock.md>)
 
 <br>
 
