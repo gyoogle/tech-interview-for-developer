@@ -195,6 +195,7 @@
 - [GitHub 저장소(repository) 미러링](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
 - [시사상식](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EC%8B%9C%EC%82%AC%20%EC%83%81%EC%8B%9D.md#%EC%8B%9C%EC%82%AC-%EC%83%81%EC%8B%9D)
 - [반도체 개념정리](<https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EB%B0%98%EB%8F%84%EC%B2%B4%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md>)
+- [[인적성] 명제 추리 풀이법](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%5B%EC%9D%B8%EC%A0%81%EC%84%B1%5D%20%EB%AA%85%EC%A0%9C%20%EC%B6%94%EB%A6%AC%20%ED%92%80%EC%9D%B4%EB%B2%95.md)
 
 <br>
 
