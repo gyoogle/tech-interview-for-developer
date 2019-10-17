@@ -101,25 +101,6 @@ public class WildTurkey implements Turkey {
 }
 ```
 
-
-
-```java
-package AdapterPattern;
-
-public class WildTurkey implements Turkey {
-
-	@Override
-	public void gobble() {
-		System.out.println("Gobble gobble");
-	}
-
-	@Override
-	public void fly() {
-		System.out.println("I'm flying a short distance");
-	}
-}
-```
-
 - TurkeyAdapter.java
 
 ```java
@@ -145,8 +126,6 @@ public class TurkeyAdapter implements Duck {
 
 }
 ```
-
-
 
 - DuckTest.java
 
@@ -181,8 +160,5 @@ public class DuckTest {
 	}
 }
 ```
-
-
-
-아까 확인한 클래스 다이어그램에서 Target은 오리에 해당하며, Adaptee는 칠면조라고 생각하면 된다.
+아까 확인한 클래스 다이어그램에서 Target은 오리에 해당하며, Adapter는 칠면조라고 생각하면 된다.
 

@@ -31,7 +31,7 @@ $ vue init webpack "프로젝트 이름"
 
 이름과 같은 환경설정을 해주면 vue 프로젝트가 생성된다.
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/vue%20init.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/vue%20init.JPG?raw=true">
 
 <br>
 
@@ -52,7 +52,7 @@ $ npm install
 $ npm run dev
 ```
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/run%20%ED%99%94%EB%A9%B4.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/run%20%ED%99%94%EB%A9%B4.JPG?raw=true">
 
 <br>
 
@@ -177,7 +177,7 @@ export default new Router({
 
 이제 <http://localhost:8080/login>로 접속하면 아래와 같은 로그인 화면이 나온다.
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/login.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/login.JPG?raw=true">
 
 style을 적용시켜서 이쁘게 화면을 구현시킬 수 있다ㅎㅎ
 
@@ -281,7 +281,7 @@ export default new Router({
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/signup.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/signup.JPG?raw=true">
 
 <br>
 
@@ -440,13 +440,13 @@ root 경로의 path를 `/`에서 `/hello`로 변경했다.
 
 #### 프로젝트 추가
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B6%94%EA%B0%80.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B6%94%EA%B0%80.JPG?raw=true">
 
 프로젝트 추가버튼 클릭
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B6%94%EA%B0%802.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B6%94%EA%B0%802.JPG?raw=true">
 
 <br>
 
@@ -454,7 +454,7 @@ root 경로의 path를 `/`에서 `/hello`로 변경했다.
 
 해당 프로젝트에 들어가면 코드 스니펫 모양이 있는데, 웹 앱을 추가하는 곳이다. 클릭해서 웹 앱에 파이어베이스를 추가하자
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%EC%9B%B9%EC%95%B1%20%EC%B6%94%EA%B0%80.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%EC%9B%B9%EC%95%B1%20%EC%B6%94%EA%B0%80.JPG?raw=true">
 
 앱 닉네임을 정하고, 등록을 누르면 스크립트가 나올 것이다.
 
@@ -586,13 +586,13 @@ createUserWithEmailAndPassword 메소드는 onResolve, onReject 콜백과 파이
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/authentication.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/authentication.JPG?raw=true">
 
 로그인 방법으로 들어가서 `이메일/비밀번호`를 활성화 시킨다.
 
 <br>
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%ED%99%9C%EC%84%B1%ED%99%94.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%ED%99%9C%EC%84%B1%ED%99%94.JPG?raw=true">
 
 사용 설정됨으로 표시되면, 이제 사용자 가입 시 파이어베이스에 저장이 가능하다!
 
@@ -600,13 +600,13 @@ createUserWithEmailAndPassword 메소드는 onResolve, onReject 콜백과 파이
 
 회원가입 view로 가서 이메일과 비밀번호를 입력하고 가입해보자
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%84%B1%EA%B3%B5.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%84%B1%EA%B3%B5.JPG?raw=true">
 
 
 
 회원가입이 정상적으로 완료되었다는 alert가 뜬다. 진짜 파이어베이스에 내 정보가 저장되어있나 확인하러 가보자
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%EC%82%AC%EC%9A%A9%EC%9E%90%ED%99%95%EC%9D%B8.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%EC%82%AC%EC%9A%A9%EC%9E%90%ED%99%95%EC%9D%B8.JPG?raw=true">
 
 오오..사용자 목록을 눌러보면, 내가 가입한 이메일이 나오는 것을 확인할 수 있다.
 
@@ -662,7 +662,7 @@ createUserWithEmailAndPassword 메소드는 onResolve, onReject 콜백과 파이
 
 로그인을 진행해보자! 우선 비밀번호를 제대로 입력하지 않고 로그인해본다
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EB%B6%88%EC%9D%BC%EC%B9%98%EC%8B%9C.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EB%B6%88%EC%9D%BC%EC%B9%98%EC%8B%9C.JPG?raw=true">
 
 에러가 나오면서 로그인이 되지 않는다!
 
@@ -670,10 +670,11 @@ createUserWithEmailAndPassword 메소드는 onResolve, onReject 콜백과 파이
 
 다시 제대로 비밀번호를 치면?!
 
-<img src="https://github.com/kim6394/Dev_BasicKnowledge/blob/master/screenshot/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5.JPG?raw=true">
+<img src="https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5.JPG?raw=true">
 
 제대로 로그인이 되는 것을 확인할 수 있다.
 
 <br>
 
-이제 로그인이 되었을 때 보여줘야 하는 화면으로 이동을 하거나 로그인한 사람이 관리자면 따로 페이지를 구성하거나를 구현하고 싶은 계획에 따라 만들어가면 된다. 끝~~
+이제 로그인이 되었을 때 보여줘야 하는 화면으로 이동을 하거나 로그인한 사람이 관리자면 따로 페이지를 구성하거나를 구현하고 싶은 계획에 따라 만들어가면 된다.
+
