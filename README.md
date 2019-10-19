@@ -204,6 +204,7 @@
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
 - [2019 삼성전자 비전캠프](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EB%B9%84%EC%A0%84%EC%BA%A0%ED%94%84.md)
-- [NCSOFT 2019 JOB Cafe](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Seminar/NCSOFT%202019%20JOB%20Cafe.md#2019-10-02-ncsoft-job-cafe)
+- [2019 NCSOFT JOB Cafe](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Seminar/NCSOFT%202019%20JOB%20Cafe.md#2019-10-02-ncsoft-job-cafe)
+- [2019 삼성전자 오픈소스 컨퍼런스](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4(SOSCON).md>)
 
 <br>
