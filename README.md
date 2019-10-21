@@ -64,6 +64,7 @@
 
 - ### Database
 
+  - [키(Key) 정리](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Database/%5BDB%5D%20Key.md)
   - [SQL - JOIN](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Database/%5BDatabase%20SQL%5D%20JOIN.md)
   - [SQL Injection](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%20Injection.md)
   - [SQL vs NoSQL](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
@@ -95,6 +96,7 @@
   - [PCB와 Context Switching](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/PCB%20%26%20Context%20Switcing.md)
   - [IPC(Inter Process Communication)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/IPC(Inter%20Process%20Communication).md)
   - [데드락(DeadLock)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/DeadLock.md)
+  - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Semaphore%20%26%20Mutex.md)
   - [페이징 & 세그먼테이션](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.pdf))
   - [페이지 교체 알고리즘](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Page%20Replacement%20Algorithm.md)
   - [메모리(Memory)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Memory.md)
