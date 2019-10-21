@@ -209,4 +209,3 @@
 - [[인적성] 명제 추리 풀이법](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%5B%EC%9D%B8%EC%A0%81%EC%84%B1%5D%20%EB%AA%85%EC%A0%9C%20%EC%B6%94%EB%A6%AC%20%ED%92%80%EC%9D%B4%EB%B2%95.md)
 
 <br>
-
