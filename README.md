@@ -13,7 +13,7 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>)
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>), [HeechanYang](<https://github.com/HeechanYang>)
 
 <br>
 
