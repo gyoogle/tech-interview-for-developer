@@ -95,6 +95,7 @@
   - [PCB와 Context Switching](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/PCB%20%26%20Context%20Switcing.md)
   - [IPC(Inter Process Communication)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/IPC(Inter%20Process%20Communication).md)
   - [데드락(DeadLock)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/DeadLock.md)
+  - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/%EC%84%B8%EB%A7%88%ED%8F%AC%ED%84%B0(Semaphore)%20%26%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
   - [페이징 & 세그먼테이션](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.pdf))
   - [페이지 교체 알고리즘](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Page%20Replacement%20Algorithm.md)
   - [메모리(Memory)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Memory.md)
