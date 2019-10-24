@@ -26,8 +26,6 @@ A) read (count 값을 읽음) -> modify (count 값 수정) -> write (count 값 �
 
 <br>
 
-
-
 #### Synchronized 블록을 사용한 Thread-safe Case
 
 ```java
@@ -120,4 +118,6 @@ A획득 -> B획득 -> A해제 -> B해제는 불가능함.
 
 1. 최적화를 위해 Compiler나 CPU에서 발생하는 코드 재배열로 인해서.
 2. CPU core의 cache 값이 Memory에 제때 쓰이지 않아 발생하는 문제.
+
+<br>
 
