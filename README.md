@@ -1,6 +1,8 @@
 # tech-interview-for-developer
 #### 👶🏻 신입 개발자의 성공적인 기술 면접을 위한 백과사전 📖
 
+<br>
+
 **Since** : 2019.03.01 
 
 **Collaborator** : [kim6394](https://github.com/kim6394), [Ricky](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
@@ -11,7 +13,7 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>)
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>)
 
 <br>
 
@@ -53,6 +55,7 @@
   - [Array & ArrayList & LinkedList](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
   - [스택(Stack) & 큐(Queue)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Stack%20%26%20Queue.md)
   - [힙(Heap)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Heap.md)
+  - [이진탐색트리(Binary Search Tree)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Binary%20Search%20Tree.md>)
   - [해시(Hash)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Hash.md)
   - [트라이(Trie)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Trie.md)
   - [B-Tree & B+Tree](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/B%20Tree%20%26%20B%2B%20Tree.md)
@@ -80,6 +83,7 @@
   - [대칭키 & 공개키](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
   - [HTTP & HTTPS](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md)
   - [로드 밸런싱(Load Balancing)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
+  - [Blocking & Non-Blocking I/O](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%5BNetwork%5D%20Blocking%20Non-Blocking%20IO.md)
 
   <br>
 
@@ -138,9 +142,11 @@
 - [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bcpp%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
 - [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
+- [[Java] String & StringBuffer & StringBuilder](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20String%20StringBuilder%20StringBuffer%20%EC%B0%A8%EC%9D%B4.md>)
 - [[Java] 자바 가상 머신(Java Virtual Machine)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md)
-- [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
 - [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
+- [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
+- [[Java] 고유 락(Intrinsic Lock)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Intrinsic%20Lock.md>)
 
 <br>
 
@@ -191,6 +197,7 @@
 - [GitHub 저장소(repository) 미러링](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
 - [시사상식](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EC%8B%9C%EC%82%AC%20%EC%83%81%EC%8B%9D.md#%EC%8B%9C%EC%82%AC-%EC%83%81%EC%8B%9D)
 - [반도체 개념정리](<https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EB%B0%98%EB%8F%84%EC%B2%B4%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md>)
+- [[인적성] 명제 추리 풀이법](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%5B%EC%9D%B8%EC%A0%81%EC%84%B1%5D%20%EB%AA%85%EC%A0%9C%20%EC%B6%94%EB%A6%AC%20%ED%92%80%EC%9D%B4%EB%B2%95.md)
 
 <br>
 
@@ -198,6 +205,7 @@
 
 - [2019 NHN OPEN TALK DAY](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
 - [2019 삼성전자 비전캠프](https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EB%B9%84%EC%A0%84%EC%BA%A0%ED%94%84.md)
-- [NCSOFT 2019 JOB Cafe](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Seminar/NCSOFT%202019%20JOB%20Cafe.md#2019-10-02-ncsoft-job-cafe)
+- [2019 NCSOFT JOB Cafe](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Seminar/NCSOFT%202019%20JOB%20Cafe.md#2019-10-02-ncsoft-job-cafe)
+- [2019 삼성전자 오픈소스 컨퍼런스](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4(SOSCON).md>)
 
 <br>
