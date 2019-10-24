@@ -92,6 +92,7 @@
 
   - [프로세스 vs 스레드](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Process%20vs%20Thread.md)
   - [프로세스 주소 공간](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Process%20Address%20Space.md)
+  - [인터럽트(Interrupt)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Interrupt.md)
   - [시스템 콜(System Call)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md)
   - [PCB와 Context Switching](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/PCB%20%26%20Context%20Switcing.md)
   - [IPC(Inter Process Communication)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/IPC(Inter%20Process%20Communication).md)
@@ -118,6 +119,7 @@
 
 ## 📌 Design Pattern
 
+- [디자인패턴 개요(Overview)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Design%20Pattern/%5BDesign%20Pattern%5D%20Overview.md)
 - [어댑터 패턴](https://github.com/kim6394/tech-interview-for-developer/blob/master/Design%20Pattern/Adapter%20Pattern.md)
 - [싱글톤 패턴](https://github.com/kim6394/tech-interview-for-developer/blob/master/Design%20Pattern/Singleton%20Pattern.md)
 - [탬플릿 메소드 패턴](https://github.com/kim6394/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Template%20Method.md)
