@@ -41,12 +41,12 @@
 
 - ### Computer Architecture
 
+  - [컴퓨터 구조 기초](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0%20%EA%B8%B0%EC%B4%88.pdf)
   - [컴퓨터의 구성](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md)
   - [중앙처리장치(CPU) 작동 원리](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98(CPU)%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
   - [캐시 메모리](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/캐시%20메모리(Cache%20Memory).md)
   - [고정 소수점 & 부동 소수점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/%EA%B3%A0%EC%A0%95%20%EC%86%8C%EC%88%98%EC%A0%90%20%26%20%EB%B6%80%EB%8F%99%20%EC%86%8C%EC%88%98%EC%A0%90.md)
   - [패리티 비트 & 해밍 코드](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/%ED%8C%A8%EB%A6%AC%ED%8B%B0%20%EB%B9%84%ED%8A%B8%20%26%20%ED%95%B4%EB%B0%8D%20%EC%BD%94%EB%93%9C.md)
-  - [컴퓨터 구조 기초](https://github.com/GimunLee/tech-interview-for-developer/blob/master/Computer%20Science/Computer%20Architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0%20%EA%B8%B0%EC%B4%88.pdf)
 
   <br>
 
@@ -188,6 +188,7 @@
 - #### Big Data
   
   - [데이터 분석](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
+  - [DBSCAN 클러스터링 알고리즘](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/DBSCAN%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - #### IT Issues
   
   - [이메일 공격 증가로 보안업계 대응 비상(19.08.07)](https://github.com/kim6394/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.07%5D%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EA%B3%B5%EA%B2%A9%20%EC%A6%9D%EA%B0%80%EB%A1%9C%20%EB%B3%B4%EC%95%88%EC%97%85%EA%B3%84%20%EB%8C%80%EC%9D%91%20%EB%B9%84%EC%83%81.md)
