@@ -13,7 +13,7 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>), [HeechanYang](<https://github.com/HeechanYang>), [Winter Jung](https://github.com/JungWinter)
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>), [HeechanYang](<https://github.com/HeechanYang>), [JungWinter](https://github.com/JungWinter)
 
 <br>
 
@@ -160,11 +160,18 @@
 ## 📌 Web
 
 - [브라우저 동작 방법](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
+
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
+
 - [REST API](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
+
 - [웹 서버와 WAS의 차이점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
 - [OAuth](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/OAuth.md>)
+
 - [PWA(Progressive Web App)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
+
+- [JWT(JSON Web Token)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md)
 
 - #### Vue.js
   
