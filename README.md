@@ -13,7 +13,7 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>), [HeechanYang](<https://github.com/HeechanYang>), [JungWinter](https://github.com/JungWinter)
+**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>), [HeechanYang](<https://github.com/HeechanYang>), [JungWinter](https://github.com/JungWinter), [inspire12](<https://github.com/inspire12>)
 
 <br>
 
@@ -25,6 +25,9 @@
 
 ## 📌 Algorithm
 
+- [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Computer%20Science/Algorithm/Bubble%20Sort.md#bubble-sort)
+- [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Computer%20Science/Algorithm/Selection%20Sort.md#selection-sort) 
+- [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Computer%20Science/Algorithm/Insertion%20Sort.md#insertion-sort) 
 - [퀵 정렬(Quick Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
 - [병합 정렬(Merge Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
 - [힙 정렬(Heap Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
@@ -146,7 +149,7 @@
 - [[C] C언어 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[C] 구조체 메모리 크기 계산](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
 - [[C] 포인터(Pointer)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%ED%8F%AC%EC%9D%B8%ED%84%B0(Pointer).md>)
-- [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bcpp%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
+- [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
 - [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
 - [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
 - [[Java] String & StringBuffer & StringBuilder](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20String%20StringBuilder%20StringBuffer%20%EC%B0%A8%EC%9D%B4.md>)
@@ -154,17 +157,26 @@
 - [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
 - [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
 - [[Java] 고유 락(Intrinsic Lock)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Intrinsic%20Lock.md>)
+- [[Java] 문자열 클래스](https://github.com/GimunLee/tech-encyclopedia/blob/master/Language/JAVA/%5BJAVA%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4.md#java-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) 
+- [[Java] Garbage Collection](https://github.com/GimunLee/tech-encyclopedia/blob/master/Language/JAVA/%5BJAVA%5D%20Garbage%20Collection.md#java-garbage-collection) 
 
 <br>
 
 ## 📌 Web
 
 - [브라우저 동작 방법](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
+
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
+
 - [REST API](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
+
 - [웹 서버와 WAS의 차이점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
 - [OAuth](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/OAuth.md>)
+
 - [PWA(Progressive Web App)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
+
+- [JWT(JSON Web Token)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md)
 
 - #### Vue.js
   
@@ -212,8 +224,5 @@
 
 - [GitHub Fork로 협업하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/GitHub%20Fork%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md#github-fork%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
 - [GitHub 저장소(repository) 미러링](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
-- [시사상식](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EC%8B%9C%EC%82%AC%20%EC%83%81%EC%8B%9D.md#%EC%8B%9C%EC%82%AC-%EC%83%81%EC%8B%9D)
-- [반도체 개념정리](<https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%EB%B0%98%EB%8F%84%EC%B2%B4%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md>)
-- [[인적성] 명제 추리 풀이법](https://github.com/kim6394/tech-interview-for-developer/blob/master/ETC/%5B%EC%9D%B8%EC%A0%81%EC%84%B1%5D%20%EB%AA%85%EC%A0%9C%20%EC%B6%94%EB%A6%AC%20%ED%92%80%EC%9D%B4%EB%B2%95.md)
 
 <br>
