@@ -168,7 +168,7 @@
 
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
 
-- [HTTP Status Code](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md])
+- [HTTP Status Code](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md)
 
 - [REST API](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
 
