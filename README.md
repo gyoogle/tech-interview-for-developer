@@ -27,9 +27,12 @@
 
 ## 📌 Algorithm
 
-- [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Computer%20Science/Algorithm/Bubble%20Sort.md#bubble-sort)
-- [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Computer%20Science/Algorithm/Selection%20Sort.md#selection-sort) 
-- [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Computer%20Science/Algorithm/Insertion%20Sort.md#insertion-sort) 
+- [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
+
+- [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
+
+- [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20(Insertion%20Sort).md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-insertion-sort)
+
 - [퀵 정렬(Quick Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
 - [병합 정렬(Merge Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
 - [힙 정렬(Heap Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
