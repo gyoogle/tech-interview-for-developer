@@ -111,6 +111,7 @@
   - [페이징 & 세그먼테이션](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.pdf))
   - [페이지 교체 알고리즘](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Page%20Replacement%20Algorithm.md)
   - [메모리(Memory)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Memory.md)
+  - [파일 시스템](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/File%20System.md)
 
   <br>
 
