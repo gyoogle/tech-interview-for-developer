@@ -27,11 +27,8 @@
 ## 📌 Algorithm
 
 - [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
-
 - [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
-
 - [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-encyclopedia/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20(Insertion%20Sort).md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-insertion-sort)
-
 - [퀵 정렬(Quick Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
 - [병합 정렬(Merge Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
 - [힙 정렬(Heap Sort)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
@@ -41,7 +38,6 @@
 - [해시 테이블 구현](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
 - [최장 증가 수열(LIS)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
 - [최소 공통 조상(LCA)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
-
 <br>
 
 ## 📌 Computer Science
@@ -170,23 +166,14 @@
 ## 📌 Web
 
 - [브라우저 동작 방법](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
-
 - [쿠키(Cookie) & 세션(Session)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
-
 - [HTTP Status Code](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md)
-
 - [REST API](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
-
 - [웹 서버와 WAS의 차이점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-
 - [OAuth](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/OAuth.md>)
-
 - [PWA(Progressive Web App)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
-
 - [JWT(JSON Web Token)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md)
-
 - [UI와 UX](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/UI%EC%99%80%20UX.md)
-
 - [Vue.js vs React](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Vue.js%EC%99%80%20React%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 - #### Vue.js
