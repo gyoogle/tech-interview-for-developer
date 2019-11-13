@@ -1,4 +1,4 @@
-## 세마포터(Semaphore) & 뮤텍스(Mutex)
+## 세마포어(Semaphore) & 뮤텍스(Mutex)
 
 <br>
 
