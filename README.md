@@ -118,7 +118,7 @@
   - [애자일(Agile) 정리1](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md) / [애자일(Agile) 정리2](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile)2.md)
   - [객체 지향 프로그래밍(Object-Oriented Programming)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Object-Oriented%20Programming.md)
   - [함수형 프로그래밍(Fuctional Programming)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Fuctional%20Programming.md)
-- [데브옵스(DevOps)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
+  - [데브옵스(DevOps)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
   
   <br>
 
