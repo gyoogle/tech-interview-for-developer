@@ -101,6 +101,7 @@
   - [시스템 콜(System Call)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md)
   - [PCB와 Context Switching](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/PCB%20%26%20Context%20Switcing.md)
   - [IPC(Inter Process Communication)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/IPC(Inter%20Process%20Communication).md)
+  - [CPU 스케줄링](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/CPU%20Scheduling.md)
   - [데드락(DeadLock)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/DeadLock.md)
   - [Race Condition]( https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Race%20Condition.md)
   - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Semaphore%20%26%20Mutex.md)
