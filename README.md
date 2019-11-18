@@ -160,8 +160,8 @@
 - [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
 - [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
 - [[Java] 고유 락(Intrinsic Lock)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Intrinsic%20Lock.md>)
-- [[Java] 문자열 클래스](https://github.com/GimunLee/tech-encyclopedia/blob/master/Language/JAVA/%5BJAVA%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4.md#java-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) 
-- [[Java] Garbage Collection](https://github.com/GimunLee/tech-encyclopedia/blob/master/Language/JAVA/%5BJAVA%5D%20Garbage%20Collection.md#java-garbage-collection) 
+- [[Java] 문자열 클래스](https://github.com/GimunLee/tech-encyclopedia/blob/master/JAVA/%5BJAVA%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4.md#java-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4)
+- [[Java] Garbage Collection](https://github.com/GimunLee/tech-encyclopedia/blob/master/JAVA/%5BJAVA%5D%20Garbage%20Collection.md#java-garbage-collection)
 
 <br>
 
