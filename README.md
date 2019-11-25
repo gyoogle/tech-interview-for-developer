@@ -174,6 +174,7 @@
 - [웹 서버와 WAS의 차이점](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [OAuth](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/OAuth.md>)
 - [JWT(JSON Web Token)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md)
+- [Authentication and Authorization](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md)
 - [로그 레벨](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/Logging%20Level.md)
 - [UI와 UX](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/UI%EC%99%80%20UX.md)
 - [CSR & SSR](https://github.com/kim6394/tech-interview-for-developer/blob/master/Web/CSR%20%26%20SSR.md)
