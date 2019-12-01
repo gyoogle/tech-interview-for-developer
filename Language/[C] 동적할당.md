@@ -11,8 +11,30 @@
 <br>
 
 - `<stdlib.h>` 헤더 파일을 include 해야한다.
-- 함수 형태 : `void* malloc(size_t size)`
-- 메모리 할당은 size_t 크기만큼 할당해준다.
+
+- 함수(Function)
+
+  - 메모리 할당 함수 : malloc
+
+    -  `void* malloc(size_t size)`
+
+    - 메모리 할당은 size_t 크기만큼 할당해준다.
+
+  - 메모리 할당 및 초기화 : calloc
+
+    - `void* calloc(size_t nelem, sizeo_t elsize)`
+    - 첫번째 인자는 배열요소 개수, 두번째 인자는 각 배열요소 사이즈
+    - 할당된 메모리를 0으로 초기화
+
+  - 메모리 추가 할당 : realloc
+
+    - `void* realloc(void *ptr, size_t size)`
+    - 이미 할당받은 메모리에 추가로 메모리 할당 (이전 메모리 주소 없어짐)
+
+  - 메모리 해제 함수 : free
+
+    - `void free(void* ptr)`
+    - 할당된 메모리 해제
 
 <br>
 
