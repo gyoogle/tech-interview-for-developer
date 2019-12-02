@@ -5,7 +5,7 @@
 
 **Since** : 2019.03.01 
 
-**Collaborator** : [kim6394](https://github.com/kim6394), [Ricky](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
+**Collaborator** : [kim6394](https://github.com/kim6394), [GimunLee](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
 
@@ -149,23 +149,31 @@
 
 ## 📌 Language
 
-- [[C] C언어 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
-- [[C] 구조체 메모리 크기 계산](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
-- [[C] 포인터(Pointer)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%ED%8F%AC%EC%9D%B8%ED%84%B0(Pointer).md>)
-- [[C] 동적할당](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.md)
-- [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
-- [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
-- [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
-- [[Java] String & StringBuffer & StringBuilder](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20String%20StringBuilder%20StringBuffer%20%EC%B0%A8%EC%9D%B4.md>)
-- [[Java] 자바 가상 머신(Java Virtual Machine)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md)
-- [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
-- [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
-- [[Java] 고유 락(Intrinsic Lock)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Intrinsic%20Lock.md>)
-- [[Java] 문자열 클래스](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) 
-- [[Java] Garbage Collection](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection) 
-- [[Java] Promotion & Casting](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Promotion%20%26%20Casting.md#promotion--casting)
-- [[Java] Primitive type & Reference type](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Primitive%20type%20%26%20Reference%20type.md#primitive-type--reference-type)
-- [[Java] Error & Exception](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Error%20%26%20Exception.md#error--exception)
+- ### C
+
+  - [[C] C언어 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
+  - [[C] 구조체 메모리 크기 계산](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
+  - [[C] 포인터(Pointer)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%ED%8F%AC%EC%9D%B8%ED%84%B0(Pointer).md>)
+  - [[C] 동적할당](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.md)
+
+- ### C++
+
+  - [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
+
+- ### Java
+
+  - [[Java] Java 컴파일 과정](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
+  - [[Java] Call by Value vs Call by Reference](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
+  - [[Java] String & StringBuffer & StringBuilder](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20String%20StringBuilder%20StringBuffer%20%EC%B0%A8%EC%9D%B4.md>)
+  - [[Java] 자바 가상 머신(Java Virtual Machine)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md)
+  - [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
+  - [[Java] Thread 활용](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
+  - [[Java] 고유 락(Intrinsic Lock)](<https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Intrinsic%20Lock.md>)
+  - [[Java] 문자열 클래스](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) 
+  - [[Java] Garbage Collection](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection) 
+  - [[Java] Promotion & Casting](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Promotion%20%26%20Casting.md#promotion--casting)
+  - [[Java] Primitive type & Reference type](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Primitive%20type%20%26%20Reference%20type.md#primitive-type--reference-type)
+  - [[Java] Error & Exception](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Error%20%26%20Exception.md#error--exception)
 
 <br>
 
