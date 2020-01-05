@@ -160,6 +160,7 @@
 - ### C++
 
   - [[C++] 가상 함수(Virtual Function)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
+  - [[C++] 입출력 최적화하기](https://github.com/kim6394/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84%20%EC%A4%84%EC%9D%B4%EB%8A%94%20%EB%B2%95.md)
 
 - ### Java
 
