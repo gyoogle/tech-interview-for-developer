@@ -121,6 +121,7 @@
   - [객체 지향 프로그래밍(Object-Oriented Programming)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Object-Oriented%20Programming.md)
   - [함수형 프로그래밍(Fuctional Programming)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Fuctional%20Programming.md)
   - [데브옵스(DevOps)](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
+  - [서드 파티(3rd party)란?](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
   
   <br>
 
