@@ -5,7 +5,7 @@
 
 **Since** : 2019.03.01 
 
-**Collaborator** : [kim6394](https://github.com/kim6394), [GimunLee](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
+**Collaborator** : [gyoogle](https://github.com/gyoogle), [GimunLee](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
 
