@@ -35,7 +35,7 @@
 - [기수 정렬(Radix Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md>)
 - [계수 정렬(Count Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md>)
 - [이분 탐색(Binary Search)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
-- [해시 테이블 구현](<https://github.com/gyoogle/Dev_BasicKnowledge/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md>)
+- [해시 테이블 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
 - [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
 - [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
 <br>
@@ -188,7 +188,7 @@
 - [HTTP Status Code](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md)
 - [REST API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
 - [웹 서버와 WAS의 차이점](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-- [OAuth](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/OAuth.md>)
+- [OAuth](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/OAuth.md)
 - [JWT(JSON Web Token)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md)
 - [Authentication and Authorization](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md)
 - [로그 레벨](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Logging%20Level.md)
