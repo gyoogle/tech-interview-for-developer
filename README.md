@@ -1,7 +1,7 @@
 # tech-interview-for-developer
 #### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
-<br>
+<br/>
 
 **Since** : 2019.03.01 
 
@@ -198,14 +198,12 @@
 - [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
 - [PWA(Progressive Web App)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
 - Vue.js
-  
   - [Vue.js 라이프사이클](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
   - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
   - [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
   - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
   - [Nuxt.js란](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Nuxt.js.md>)
 - React
-  
   - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 
 <br>
@@ -219,14 +217,16 @@
 ## 📌 New Technology
 
 - #### AI
-  
+- 
   - [용어 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/README.md)
-- #### Big Data
   
+- #### Big Data
+- 
   - [데이터 분석](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
   - [DBSCAN 클러스터링 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/DBSCAN%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-- #### IT Issues
   
+- #### IT Issues
+- 
   - [이메일 공격 증가로 보안업계 대응 비상(19.08.07)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.07%5D%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EA%B3%B5%EA%B2%A9%20%EC%A6%9D%EA%B0%80%EB%A1%9C%20%EB%B3%B4%EC%95%88%EC%97%85%EA%B3%84%20%EB%8C%80%EC%9D%91%20%EB%B9%84%EC%83%81.md)
   - [쿠팡 서비스 오류(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
   - [GraphQL(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
@@ -249,4 +249,4 @@
 - [GitHub Fork로 협업하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20Fork%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md#github-fork%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
 - [GitHub 저장소(repository) 미러링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
 
-<br>
+<br/>
