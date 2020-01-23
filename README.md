@@ -211,6 +211,8 @@
 ## 📌 Linux
 
 - [리눅스 기본 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
+- [폰 노이만 구조](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Von%20Neumann%20Architecture.md)
+- [퍼미션 활용](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Permission.md)
 
 <br>
 
