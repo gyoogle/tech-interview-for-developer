@@ -76,5 +76,11 @@
 
    <img src="https://2.bp.blogspot.com/-BbQd6F9-8gA/Wm7I6zN-GQI/AAAAAAAAFLY/hVzeMS3JodsrpzLGPom8dav27RDfLfFVQCK4BGAYYCw/s320/15.jpg">
 
+   <br>
    
+   <br>
+   
+   ##### [참고 자료]
+   
+   - [링크](http://cocotp10.blogspot.com/2018/01/linux-centos7.html)
 
