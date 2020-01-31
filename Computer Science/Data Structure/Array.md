@@ -25,7 +25,7 @@ int n = sizeof(arr) / sizeof(arr[0]); // 7
 
 <br/>
 
-- [기본적인 회전 알고리즘 구현](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/code/rotate_array.cpp)
+- [기본적인 회전 알고리즘 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/code/rotate_array.cpp)
 
   > temp를 활용해서 첫번째 인덱스 값을 저장 후
   > arr[0]~arr[n-1]을 각각 arr[1]~arr[n]의 값을 주고, arr[n]에 temp를 넣어준다.
@@ -44,7 +44,7 @@ int n = sizeof(arr) / sizeof(arr[0]); // 7
 
   <br/>
 
-- [저글링 알고리즘 구현](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/code/juggling_array.cpp)
+- [저글링 알고리즘 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/code/juggling_array.cpp)
 
   > ![ArrayRotation](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/arra.jpg)
   >
@@ -64,7 +64,7 @@ int n = sizeof(arr) / sizeof(arr[0]); // 7
 
   <br/>
 
-- [역전 알고리즘 구현](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/code/reversal_array.cpp)
+- [역전 알고리즘 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/code/reversal_array.cpp)
 
   > 회전시키는 수에 대해 구간을 나누어 reverse로 구현하는 방법
   >
@@ -177,7 +177,7 @@ Rj - Rj-1 = arrSum - n * arr[n-j]
 이를 활용해서 몇번 회전했을 때 최대값이 나오는 지 구할 수 있다.
 ```
 
-[구현 소스 코드 링크](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/code/maxvalue_array.cpp)
+[구현 소스 코드 링크](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/code/maxvalue_array.cpp)
 
 <br/>
 
@@ -240,7 +240,7 @@ int fix(int A[], int len){
 }
 ```
 
-[구현 소스 코드 링크](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Data%20Structure/code/rearrange_array.cpp)
+[구현 소스 코드 링크](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/code/rearrange_array.cpp)
 
 <br/>
 
