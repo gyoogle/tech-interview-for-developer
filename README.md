@@ -39,6 +39,8 @@
 - [DFS & BFS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/DFS%20%26%20BFS.md)
 - [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
 - [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
+- [비트마스크(BitMask)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
+
 <br>
 
 ## 📌 Computer Science
@@ -125,7 +127,6 @@
   - [데브옵스(DevOps)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
   - [서드 파티(3rd party)란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
   
-  <br>
 
 <br>
 
