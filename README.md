@@ -5,15 +5,20 @@
 
 **Since** : 2019.03.01 
 
-**Collaborator** : [gyoogle](https://github.com/gyoogle), [GimunLee](<https://github.com/GimunLee>), [b2narae](<https://github.com/b2narae>)
+**Collaborator**
+
+| [gyoogle](https://github.com/gyoogle) | [GimunLee](<https://github.com/GimunLee>) | [b2narae](<https://github.com/b2narae>) |
+| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: |
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
 
 `ex) 2019-10-14 [Algorithm] Sort Add/Update/Delete`
 
+<br>
+
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏
+**🙏도움을 주신 분들🙏**
 
 | [ykk2006](<https://github.com/ykk2006>) | [ksundong](<https://github.com/ksundong>) | [qwer9412](<https://github.com/qwer9412>) | [HeechanYang](<https://github.com/HeechanYang>) | [JungWinter](https://github.com/JungWinter) | [inspire12](<https://github.com/inspire12>) |
 | :-------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
