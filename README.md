@@ -13,8 +13,11 @@
 
 잘못된 내용은 이슈로 알려주세요 💡
 
-**도움을 주신 분들**🙏 : [ykk2006](<https://github.com/ykk2006>), [ksundong](<https://github.com/ksundong>), [qwer9412](<https://github.com/qwer9412>), [HeechanYang](<https://github.com/HeechanYang>), [JungWinter](https://github.com/JungWinter), [inspire12](<https://github.com/inspire12>),
- [5d-jh](https://github.com/5d-jh), [hsh2001](https://github.com/hsh2001), [jng0820](https://github.com/jng0820)
+**도움을 주신 분들**🙏
+
+| [ykk2006](<https://github.com/ykk2006>) | [ksundong](<https://github.com/ksundong>) | [qwer9412](<https://github.com/qwer9412>) | [HeechanYang](<https://github.com/HeechanYang>) | [JungWinter](https://github.com/JungWinter) | [inspire12](<https://github.com/inspire12>) |
+| :-------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
+|  **[5d-jh](https://github.com/5d-jh)**  | **[hsh2001](https://github.com/hsh2001)** | **[jng0820](https://github.com/jng0820)** |                                                 |                                             |                                             |
 
 <br>
 
@@ -39,6 +42,7 @@
 - [DFS & BFS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/DFS%20%26%20BFS.md)
 - [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
 - [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
+- [동적 계획법(Dynamic Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
 - [비트마스크(BitMask)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
 
 <br>
