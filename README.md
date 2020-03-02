@@ -242,6 +242,8 @@
   - [GraphQL(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
   - [SK 하이닉스의 탄생은?(19.08.08)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.08%5D%20IT%20%EC%88%98%EB%8B%A4%20%EC%A0%95%EB%A6%AC.md)
   - [구글, 크롬 브라우저에서 FTP 지원 중단 확정(19.08.20)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/%5B2019.08.20%5D%20Google%2C%20%ED%81%AC%EB%A1%AC%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C%20FTP%20%EC%A7%80%EC%9B%90%20%EC%A4%91%EB%8B%A8%20%ED%99%95%EC%A0%95.md)
+  - [2020 ICT 이슈](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/2020%20ICT%20%EC%9D%B4%EC%8A%88.md)
+  - [AMD와 Intel의 반백년 전쟁, 그리고 2020년의 '반도체'](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/IT%20Issues/AMD%EC%99%80%20Intel%EC%9D%98%20%EB%B0%98%EB%B0%B1%EB%85%84%20%EC%A0%84%EC%9F%81%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%202020%EB%85%84%EC%9D%98%20'%EB%B0%98%EB%8F%84%EC%B2%B4'.md)
 
 <br>
 
