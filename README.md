@@ -231,7 +231,7 @@
 
 - #### AI 
   - [용어 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/README.md)
-  - [Tensorflow로 Linear Regression 알고리즘 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/Linear%20regression.md)
+  - [Tensorflow로 Linear Regression 알고리즘 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/Linear%20regression%20%EC%8B%A4%EC%8A%B5.md)
   
 - #### Big Data
   - [데이터 분석](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/Big%20Data/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
