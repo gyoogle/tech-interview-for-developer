@@ -12,10 +12,6 @@
 
 <br>
 
-**참고** : 네이버D2 [링크](<https://d2.naver.com/helloworld/2564557>)
-
-<br>
-
 ### Prerequisites
 
 | Required                                                     | Description                                                  |
@@ -576,3 +572,11 @@ $ git commit -m 'Add .nvmrc to maintain the same Node.js LTS version'
 테스트 코드는 이 과정에서 예상치 못한 문제가 발생할 확률을 줄여주며, 구현 코드 의도를 효과적으로 전달할 수 있다.
 
 또한 리뷰 시, 코드 컨벤션 검증뿐만 아니라 비즈니스 로직의 발생 문제도 고민이 가능하다.
+
+<br>
+
+<br>
+
+**[참고 사항]** 
+
+- [링크](<https://d2.naver.com/helloworld/2564557>)
