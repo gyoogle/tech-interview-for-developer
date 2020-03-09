@@ -146,7 +146,7 @@
 - [어댑터 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Adapter%20Pattern.md)
 - [싱글톤 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Singleton%20Pattern.md)
 - [탬플릿 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Template%20Method.md)
-- [팩토리 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Template%20Method%20Pattern.md)
+- [팩토리 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Factory%20Method.md)
 - [옵저버 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Observer%20pattern.md)
 - [스트레티지 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Strategy%20Pattern.md)
 
