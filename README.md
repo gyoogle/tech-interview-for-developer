@@ -90,6 +90,7 @@
   - [인덱스(INDEX)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/%5BDB%5D%20Index.md)
   - [트랜잭션(Transaction)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/Transaction.md)
   - [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/Transaction%20Isolation%20Level.md)
+  - [레디스(Redis)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/Redis.md)
 
   <br>
 
