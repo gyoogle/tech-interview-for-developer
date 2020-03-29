@@ -173,6 +173,7 @@
 
 - ### C++
 
+  - [[C++] 얕은 복사 vs 깊은 복사](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BCpp%5D%20shallow%20copy%20vs%20deep%20copy.md)
   - [[C++] 가상 함수(Virtual Function)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
   - [[C++] 입출력 최적화하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84%20%EC%A4%84%EC%9D%B4%EB%8A%94%20%EB%B2%95.md)
 
