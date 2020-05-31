@@ -20,9 +20,9 @@
 
 **🙏도움을 주신 분들🙏**
 
-| [ykk2006](<https://github.com/ykk2006>) | [ksundong](<https://github.com/ksundong>) | [qwer9412](<https://github.com/qwer9412>) | [HeechanYang](<https://github.com/HeechanYang>) | [JungWinter](https://github.com/JungWinter) | [inspire12](<https://github.com/inspire12>) |
-| :-------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
-|  **[5d-jh](https://github.com/5d-jh)**  | **[hsh2001](https://github.com/hsh2001)** | **[jng0820](https://github.com/jng0820)** |                                                 |                                             |                                             |
+| [ykk2006](<https://github.com/ykk2006>) | [ksundong](<https://github.com/ksundong>) | [qwer9412](<https://github.com/qwer9412>) | [HeechanYang](<https://github.com/HeechanYang>) |  [JungWinter](https://github.com/JungWinter)  | [inspire12](<https://github.com/inspire12>) |
+| :-------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------------: | :-------------------------------------------: | :-----------------------------------------: |
+|  **[5d-jh](https://github.com/5d-jh)**  | **[hsh2001](https://github.com/hsh2001)** | **[jng0820](https://github.com/jng0820)** |     **[Einere](https://github.com/Einere)**     | **[minuk8932](https://github.com/minuk8932)** |  **[Dae-Hwa](https://github.com/Dae-Hwa)**  |
 
 <br>
 
