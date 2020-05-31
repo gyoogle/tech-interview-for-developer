@@ -50,6 +50,8 @@ Payload 부분에는 토큰을 담을 정보가 들어있습니다. 정보의 �
 서명은 헤더의 인코딩값과 정보의 인코딩값을 합친후 주어진 비밀키로 해쉬를 하여 생성합니다.
 이렇게 만든 해쉬를 `base64`형태로 나타내게 됩니다.
 
+<br>
+
 ## 로그인 인증시 JWT 사용
 만약 유효기간이 짧은 Token을 발급하게되면 사용자 입장에서 자주 로그인을 해야하기 때문에 번거롭고 반대로 유효기간이 긴 Token을 발급하게되면 제 3자에게 토큰을 탈취당할 경우 보안에 취약하다는 약점이 있습니다.
 그 점들을 보완하기 위해 **Refresh Token** 을 사용하게 되었습니다.
@@ -58,6 +60,15 @@ Refresh Token은 Access Token과 똑같은 JWT입니다. Access Token의 유효�
 이 방법또한 Access Token이 탈취당한다해도 정보가 유출이 되는걸 막을 수 없지만, 더 짧은 유효기간때문에 탈취되는 가능성이 적다는 점을 이용한 것입니다.
 Refresh Token또한 유효기간이 만료됐다면, 사용자는 새로 로그인해야 합니다. Refresh Token도 탈취 될 가능성이 있기 때문에 적절한 유효기간 설정이 필요합니다.
 
+<br>
+
 ### Access Token + Refresh Token 인증 과정
-![
-](https://lh3.googleusercontent.com/8iCnianYLcjGv5ool7MysE3YlXSs-JL_Lb0yvsayusvhLHXh8iA62vYL0XBZFUkxTNbcivwRvnpi "JWT 인증방식")
+<img src="https://static.packt-cdn.com/products/9781784395407/graphics/B03653_08_02.jpg">
+
+<br>
+
+<br>
+
+#### [참고 자료]
+
+- [링크](https://subscription.packtpub.com/book/application_development/9781784395407/8/ch08lvl1sec51/reference-pages)
