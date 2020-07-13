@@ -7,7 +7,13 @@
 
 **Collaborator**
 
-| <img src="https://avatars3.githubusercontent.com/u/34904741?s=460&u=c8b8b7954518e26abbcf5d29c69c5df0b5c53c1b&v=4" width="100">[gyoogle](https://github.com/gyoogle) | <img src="https://avatars2.githubusercontent.com/u/46181475?s=460&u=16d868ed1e357e51e8ba9f6dbb77df53a8fbb945&v=4" width="100">[GimunLee](<https://github.com/GimunLee>) | <img src="https://avatars2.githubusercontent.com/u/37679254?s=460&u=1a7ccc7bf9926d6ea1cc455d04dfb63e4ebceaec&v=4" width="100">[b2narae](<https://github.com/b2narae>) |
+| <img src="https://avatars3.githubusercontent.com/u/34904741?s=460&u=c8b8b7954518e26abbcf5d29c69c5df0b5c53c1b&v=4" width="100">
+
+[gyoogle](https://github.com/gyoogle) | <img src="https://avatars2.githubusercontent.com/u/46181475?s=460&u=16d868ed1e357e51e8ba9f6dbb77df53a8fbb945&v=4" width="100">
+
+[GimunLee](<https://github.com/GimunLee>) | <img src="https://avatars2.githubusercontent.com/u/37679254?s=460&u=1a7ccc7bf9926d6ea1cc455d04dfb63e4ebceaec&v=4" width="100">
+
+[b2narae](<https://github.com/b2narae>) |
 | :-----------------------------------: | :---------------------------------------: | :-------------------------------------: |
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
