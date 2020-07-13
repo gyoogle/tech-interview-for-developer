@@ -7,7 +7,7 @@
 
 **Collaborator**
 
-| [gyoogle](https://github.com/gyoogle) | [GimunLee](<https://github.com/GimunLee>) | [b2narae](<https://github.com/b2narae>) |
+| <img src="https://avatars3.githubusercontent.com/u/34904741?s=460&u=c8b8b7954518e26abbcf5d29c69c5df0b5c53c1b&v=4" width="100">[gyoogle](https://github.com/gyoogle) | <img src="https://avatars2.githubusercontent.com/u/46181475?s=460&u=16d868ed1e357e51e8ba9f6dbb77df53a8fbb945&v=4" width="100">[GimunLee](<https://github.com/GimunLee>) | <img src="https://avatars2.githubusercontent.com/u/37679254?s=460&u=1a7ccc7bf9926d6ea1cc455d04dfb63e4ebceaec&v=4" width="100">[b2narae](<https://github.com/b2narae>) |
 | :-----------------------------------: | :---------------------------------------: | :-------------------------------------: |
 
 **Commit convention rule** : 날짜-[주제]-내용-상태
@@ -20,13 +20,18 @@
 
 **🙏도움을 주신 분들🙏**
 
-| [ykk2006](<https://github.com/ykk2006>) | [ksundong](<https://github.com/ksundong>) | [qwer9412](<https://github.com/qwer9412>) | [HeechanYang](<https://github.com/HeechanYang>) |  [JungWinter](https://github.com/JungWinter)  | [inspire12](<https://github.com/inspire12>) |
-| :-------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------------: | :-------------------------------------------: | :-----------------------------------------: |
-|  **[5d-jh](https://github.com/5d-jh)**  | **[hsh2001](https://github.com/hsh2001)** | **[jng0820](https://github.com/jng0820)** |     **[Einere](https://github.com/Einere)**     | **[minuk8932](https://github.com/minuk8932)** |  **[Dae-Hwa](https://github.com/Dae-Hwa)**  |
+| <img src="https://avatars3.githubusercontent.com/u/21700738?s=460&v=4">[ykk2006](<https://github.com/ykk2006>) | <img src="https://avatars1.githubusercontent.com/u/38597469?s=460&u=2dfb09e65b47940c7661b7093c6cf8c91b8f13ea&v=4">[ksundong](<https://github.com/ksundong>) | <img src="https://avatars1.githubusercontent.com/u/43029633?s=460&u=4897a0df8a8ac97067112eb57de2167e243c4548&v=4">[qwer9412](<https://github.com/qwer9412>) | <img src="https://avatars2.githubusercontent.com/u/29394651?s=460&u=3c063ccc82426a6ae3e793d850c2e43d5d501499&v=4">[LOG-INFO](https://github.com/LOG-INFO) | <img src="https://avatars3.githubusercontent.com/u/13811604?s=460&u=4224297ac21c625fd85c6f77fc335ec2745d4845&v=4">[JungWinter](https://github.com/JungWinter) | <img src="https://avatars0.githubusercontent.com/u/11865970?s=460&u=b49b71d66a5cf2ebae68c14e8b88030b9bcf7152&v=4">[inspire12](<https://github.com/inspire12>) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://avatars3.githubusercontent.com/u/24839897?s=460&u=a541beed4fcd7a72c65c9ef5761b6a9a63ac6e42&v=4">**[5d-jh](https://github.com/5d-jh)** | <img src="https://avatars1.githubusercontent.com/u/32220765?s=460&u=dad3eb175d3262ed345d0ef3208bad42eb2ea71b&v=4">**[hsh2001](https://github.com/hsh2001)** | <img src="https://avatars1.githubusercontent.com/u/37139642?s=460&v=4">**[jng0820](https://github.com/jng0820)** | <img src="https://avatars0.githubusercontent.com/u/8300010?s=460&u=f872a8ecdede0c41005726c643ea2c745f883f95&v=4">**[Einere](https://github.com/Einere)** | <img src="https://avatars1.githubusercontent.com/u/19317237?s=460&u=c297a277b1e7b5b4b38fa8ada3d06ace2a7cece2&v=4">**[minuk8932](https://github.com/minuk8932)** | <img src="https://avatars0.githubusercontent.com/u/24666330?s=460&u=831de57268119232a92a20eb610a3167dba99dc0&v=4">**[Dae-Hwa](https://github.com/Dae-Hwa)** |
+| <img src="https://avatars2.githubusercontent.com/u/33534771?s=460&u=ca3b53117a1093fdd0dfd0bbddf8ea1da9528334&v=4">**[WooVictory](https://github.com/WooVictory)** |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 <br>
 
-⏩ ⏩ ⏩  [웹 사이트에서 편하게 공부하세요! Click!](https://gyoogle.dev/)  ⏪ ⏪ ⏪
+<br>
+
+### ⏩ ⏩ ⏩  [웹 사이트에서 편하게 공부하세요! Click!](https://gyoogle.dev/)  ⏪ ⏪ ⏪
+
+<br>
 
 <br>
 
