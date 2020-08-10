@@ -1,4 +1,6 @@
 # tech-interview-for-developer
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_shield)
+
 
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
@@ -283,3 +285,6 @@
 - [Javascript와 Node.js로 Git을 통해 협업하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/Collaborate%20with%20Git%20on%20Javascript%20and%20Node.js.md) 
 
 <br/>
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_large)
