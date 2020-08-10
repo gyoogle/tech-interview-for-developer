@@ -66,7 +66,9 @@
 
 <br>
 
-- [삼성 소프트웨어 역량테스트 PRO 등급 준비](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/SAMSUNG%20Software%20PRO%EB%93%B1%EA%B8%89%20%EC%A4%80%EB%B9%84.md)
+- ##### ✏️ TEST
+
+  - [삼성 소프트웨어 역량테스트 PRO 등급 준비](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/SAMSUNG%20Software%20PRO%EB%93%B1%EA%B8%89%20%EC%A4%80%EB%B9%84.md)
 
 <br>
 
