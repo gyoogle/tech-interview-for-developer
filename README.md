@@ -127,7 +127,7 @@
 
   <br>
 
-- ### Operation System
+- ### Operating System
 
   - [운영체제란](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Operation%20System.md)
   - [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Process%20vs%20Thread.md)
