@@ -1,12 +1,12 @@
-## DB 트랜잭션(Transaction)
+# DB 트랜잭션(Transaction)
 
+<br>
 
-
-*트렌잭션이란?*
+#### 트렌잭션이란?
 
 > 데이터베이스의 상태를 변화시키기 위해 수행하는 작업 단위
 
-
+<br>
 
 상태를 변화시킨다는 것 → **SQL 질의어를 통해 DB에 접근하는 것**
 
@@ -16,6 +16,8 @@
 - DELETE
 - UPDATE
 ```
+
+<br>
 
 작업 단위 → **많은 SQL 명령문들을 사람이 정하는 기준에 따라 정하는 것**
 
@@ -33,11 +35,11 @@
 
 ```
 
-
+<br>
 
 **즉, 하나의 트랜잭션 설계를 잘 만드는 것이 데이터를 다룰 때 많은 이점을 가져다준다.**
 
-
+<br>
 
 #### 트랜잭션 특징
 
@@ -59,33 +61,35 @@
 
   > 트랜잭션이 성공적으로 완료되었으면, 결과는 영구적으로 반영되어야 한다.
 
-
+<br>
 
 ##### Commit
 
-> 하나의 트랜잭션이 성공적으로 끝났고,  DB가 일관성있는 상태일 때 이를 알려주기 위해 사용하는 연산
+하나의 트랜잭션이 성공적으로 끝났고,  DB가 일관성있는 상태일 때 이를 알려주기 위해 사용하는 연산
 
-
+<br>
 
 ##### Rollback
 
-> 하나의 트랜잭션 처리가 비정상적으로 종료되어 트랜잭션 원자성이 깨진 경우
->
-> transaction이 정상적으로 종료되지 않았을 때, last consistent state (예) Transaction의 시작 상태) 로 roll back 할 수 있음. 
+하나의 트랜잭션 처리가 비정상적으로 종료되어 트랜잭션 원자성이 깨진 경우
 
+transaction이 정상적으로 종료되지 않았을 때, last consistent state (예) Transaction의 시작 상태) 로 roll back 할 수 있음. 
 
+<br>
 
 *상황이 주어지면 DB 측면에서 어떻게 해결할 수 있을지 대답할 수 있어야 함*
 
-
+<br>
 
 ---
 
-
+<br>
 
 #### Transaction 관리를 위한 DBMS의 전략
 
 이해를 위한 2가지 개념 : DBMS의 구조 / Buffer 관리 정책
+
+<br>
 
 1) DBMS의 구조
 
@@ -97,7 +101,7 @@
 
 <img src="https://d2.naver.com/content/images/2015/06/helloworld-407507-1.png">
 
-
+<br>
 
 2) Page Buffer Manager or Buffer Manager
 
@@ -105,7 +109,7 @@ DBMS의 Storage System에 속하는 모듈 중 하나로, Main Memory에 유지�
 
 > Buffer 관리 정책에 따라, UNDO 복구와 REDO 복구가 요구되거나 그렇지 않게 되므로, transaction 관리에 매우 중요한 결정을 가져온다.
 
-
+<br>
 
 3) UNDO
 
@@ -118,13 +122,13 @@ DBMS의 Storage System에 속하는 모듈 중 하나로, Main Memory에 유지�
   - 대부분의 DBMS가 채택하는 Buffer 관리 정책
   - UNDO logging과 복구를 필요로 함.
 
-  
+  <br>
 
   ¬steal : 수정된 페이지들을 EOT (End Of Transaction)까지는 버퍼에 유지하는 정책
 
   - UNDO 작업이 필요하지 않지만, 매우 큰 메모리 버퍼가 필요함.
 
-
+<br>
 
 4) REDO
 
@@ -134,18 +138,22 @@ Buffer 관리 정책에 영향을 받음
 
 - Transaction이 종료되는 시점에 해당 transaction이 수정한 page를 디스크에 쓸 것인가 아닌가로 기준.
 
-  
+  <br>
 
   FORCE : 수정했던 모든 페이지를 Transaction commit 시점에 disk에 반영
 
   transaction이 commit 되었을 때 수정된 페이지들이 disk 상에 반영되므로 redo 필요 없음.
 
-  
+  <br>
 
   ¬FORCE : commit 시점에 반영하지 않는 정책
 
   transaction이 disk 상의 db에 반영되지 않을 수 있기에 redo 복구가 필요. (대부분의 DBMS 정책)
 
+  <br>
   
+  <br>
 
-참고 : <https://d2.naver.com/helloworld/407507>
+#### [참고사항]
+
+- [링크](https://d2.naver.com/helloworld/407507)
