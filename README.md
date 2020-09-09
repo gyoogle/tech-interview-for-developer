@@ -28,7 +28,7 @@
 | <img src="https://avatars3.githubusercontent.com/u/21700738?s=460&v=4">[ykk2006](<https://github.com/ykk2006>) | <img src="https://avatars1.githubusercontent.com/u/38597469?s=460&u=2dfb09e65b47940c7661b7093c6cf8c91b8f13ea&v=4">[ksundong](<https://github.com/ksundong>) | <img src="https://avatars1.githubusercontent.com/u/43029633?s=460&u=4897a0df8a8ac97067112eb57de2167e243c4548&v=4">[qwer9412](<https://github.com/qwer9412>) | <img src="https://avatars2.githubusercontent.com/u/29394651?s=460&u=3c063ccc82426a6ae3e793d850c2e43d5d501499&v=4">[LOG-INFO](https://github.com/LOG-INFO) | <img src="https://avatars3.githubusercontent.com/u/13811604?s=460&u=4224297ac21c625fd85c6f77fc335ec2745d4845&v=4">[JungWinter](https://github.com/JungWinter) | <img src="https://avatars0.githubusercontent.com/u/11865970?s=460&u=b49b71d66a5cf2ebae68c14e8b88030b9bcf7152&v=4">[inspire12](<https://github.com/inspire12>) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://avatars3.githubusercontent.com/u/24839897?s=460&u=a541beed4fcd7a72c65c9ef5761b6a9a63ac6e42&v=4">**[5d-jh](https://github.com/5d-jh)** | <img src="https://avatars1.githubusercontent.com/u/32220765?s=460&u=dad3eb175d3262ed345d0ef3208bad42eb2ea71b&v=4">**[hsh2001](https://github.com/hsh2001)** | <img src="https://avatars1.githubusercontent.com/u/37139642?s=460&v=4">**[jng0820](https://github.com/jng0820)** | <img src="https://avatars0.githubusercontent.com/u/8300010?s=460&u=f872a8ecdede0c41005726c643ea2c745f883f95&v=4">**[Einere](https://github.com/Einere)** | <img src="https://avatars1.githubusercontent.com/u/19317237?s=460&u=c297a277b1e7b5b4b38fa8ada3d06ace2a7cece2&v=4">**[minuk8932](https://github.com/minuk8932)** | <img src="https://avatars0.githubusercontent.com/u/24666330?s=460&u=831de57268119232a92a20eb610a3167dba99dc0&v=4">**[Dae-Hwa](https://github.com/Dae-Hwa)** |
-| <img src="https://avatars2.githubusercontent.com/u/33534771?s=460&u=ca3b53117a1093fdd0dfd0bbddf8ea1da9528334&v=4">**[WooVictory](https://github.com/WooVictory)** | <img src="https://avatars0.githubusercontent.com/u/26344479?s=460&u=743bbedb0360ea6f54bbf80c58142d3b3153c3f1&v=4">**[jongnan](https://github.com/jongnan)** | <img src="https://avatars2.githubusercontent.com/u/13609011?s=460&u=c8050e51189b8274be4b1803bb3a37cfa9d3b721&v=4">**[skyoun97](https://github.com/skyoun97)** |                                                              |                                                              |                                                              |
+| <img src="https://avatars2.githubusercontent.com/u/33534771?s=460&u=ca3b53117a1093fdd0dfd0bbddf8ea1da9528334&v=4">**[WooVictory](https://github.com/WooVictory)** | <img src="https://avatars0.githubusercontent.com/u/26344479?s=460&u=743bbedb0360ea6f54bbf80c58142d3b3153c3f1&v=4">**[jongnan](https://github.com/jongnan)** | <img src="https://avatars2.githubusercontent.com/u/13609011?s=460&u=c8050e51189b8274be4b1803bb3a37cfa9d3b721&v=4">**[skyoun97](https://github.com/skyoun97)** |                         <img src="https://avatars3.githubusercontent.com/u/44488296?s=460&u=1f350360d7c3897e8945ae961682c5bdd545221d&v=4">**[dirmathfl](https://github.com/dirmathfl)**                         |                                                              |                                                              |
 
 <br>
 
@@ -129,21 +129,21 @@
 
 - ### Operating System
 
-  - [운영체제란](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Operation%20System.md)
-  - [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Process%20vs%20Thread.md)
-  - [프로세스 주소 공간](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Process%20Address%20Space.md)
-  - [인터럽트(Interrupt)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Interrupt.md)
-  - [시스템 콜(System Call)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md)
-  - [PCB와 Context Switching](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/PCB%20%26%20Context%20Switcing.md)
-  - [IPC(Inter Process Communication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/IPC(Inter%20Process%20Communication).md)
-  - [CPU 스케줄링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/CPU%20Scheduling.md)
-  - [데드락(DeadLock)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/DeadLock.md)
-  - [Race Condition]( https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Race%20Condition.md)
-  - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Semaphore%20%26%20Mutex.md)
-  - [페이징 & 세그먼테이션](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Paging%20and%20Segmentation.pdf))
-  - [페이지 교체 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Page%20Replacement%20Algorithm.md)
-  - [메모리(Memory)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Memory.md)
-  - [파일 시스템](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/File%20System.md)
+  - [운영체제란](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Operation%20System.md)
+  - [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)
+  - [프로세스 주소 공간](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20Address%20Space.md)
+  - [인터럽트(Interrupt)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Interrupt.md)
+  - [시스템 콜(System Call)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md)
+  - [PCB와 Context Switching](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/PCB%20%26%20Context%20Switcing.md)
+  - [IPC(Inter Process Communication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/IPC(Inter%20Process%20Communication).md)
+  - [CPU 스케줄링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/CPU%20Scheduling.md)
+  - [데드락(DeadLock)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/DeadLock.md)
+  - [Race Condition]( https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Race%20Condition.md)
+  - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Semaphore%20%26%20Mutex.md)
+  - [페이징 & 세그먼테이션](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.pdf))
+  - [페이지 교체 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Page%20Replacement%20Algorithm.md)
+  - [메모리(Memory)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Memory.md)
+  - [파일 시스템](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/File%20System.md)
 
   <br>
 
