@@ -1,4 +1,4 @@
-# CPU Scheduing
+# CPU Scheduling
 
 <br>
 
