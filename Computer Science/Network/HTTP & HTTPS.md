@@ -18,7 +18,7 @@ HTTP는 텍스트 교환이므로, 누군가 네트워크에서 신호를 가로
 
   인터넷 상에서 정보를 암호화하는 SSL 프로토콜을 사용해 클라이언트와 서버가 자원을 주고 받을 때 쓰는 통신 규약
 
-HTTPS는 텍스트를 암호화한다. (공개키 암호화 방식으로!) : [공개키 설명](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
+HTTPS는 텍스트를 암호화한다. (Master Secret이라는 대칭키를 공개키 암호화 방식으로 전달하고 전달된 대칭키를 이용해 텍스트를 암호화 해 통신한다.) : [공개키 설명](https://github.com/kim6394/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 
 <br>
 
