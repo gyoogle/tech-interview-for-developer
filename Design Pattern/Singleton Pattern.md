@@ -1,4 +1,4 @@
-## [디자인 패턴] 싱글톤 패턴(Singleton pattern)
+﻿## [디자인 패턴] 싱글톤 패턴(Singleton pattern)
 
 <br>
 
@@ -66,7 +66,7 @@
 
 ---
 
-1. #####  Lazy Initialization (게으른 초기화)
+1. #####  Lazy Initialization (초기화 지연)
 
    ```java
    public class ThreadSafe_Lazy_Initialization{
