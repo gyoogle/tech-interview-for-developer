@@ -59,7 +59,7 @@ const c; // error
 ```javascript
 var string = num1 + ' + ' + num2 + ' = ' + result;
 
-const string = ${num1} + ${num2} = ${result};
+const string = `${num1} + ${num2} = ${result}`;
 ```
 
 <br>
