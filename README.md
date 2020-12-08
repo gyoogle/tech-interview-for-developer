@@ -1,6 +1,6 @@
 # tech-interview-for-developer
 
-[![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://http:/gyoogle.github.io)
+[![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://gyoogle.github.io)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.io/gyoogle/tech-interview-for-developer.svg)](http://hits.dwyl.io/gyoogle/tech-interview-for-developer)
 
