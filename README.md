@@ -1,6 +1,8 @@
 # tech-interview-for-developer
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_shield)
 
+[![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://http:/gyoogle.github.io)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.io/gyoogle/tech-interview-for-developer.svg)](http://hits.dwyl.io/gyoogle/tech-interview-for-developer)
 
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
