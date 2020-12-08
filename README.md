@@ -1,8 +1,11 @@
 # tech-interview-for-developer
 
+
 [![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://gyoogle.github.io)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
 
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
