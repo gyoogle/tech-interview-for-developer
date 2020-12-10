@@ -119,7 +119,7 @@ Merge가 완료되면, push를 진행하고 자동으로 배포가 완료된다.
 
 ## 3. GitLab Flow
 
-> github flow의 간단한 배포 이슈를 보안하기 위해 관련 내용을 추가로 덧붙인 flow 방식
+> github flow의 간단한 배포 이슈를 보완하기 위해 관련 내용을 추가로 덧붙인 flow 방식
 
 <br>
 
