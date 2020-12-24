@@ -13,8 +13,6 @@
 
 <br>
 
-<br>
-
 [<img src="https://github.com/gyoogle/blog/blob/master/docs/.vuepress/public/images/BMC.png?raw=true" width="150px" height="30px">](https://www.buymeacoffee.com/gyoogle)
 
 <br>
