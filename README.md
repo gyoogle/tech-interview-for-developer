@@ -13,6 +13,12 @@
 
 <br>
 
+<br>
+
+[<img src="https://github.com/gyoogle/blog/blob/master/docs/.vuepress/public/images/BMC.png?raw=true" width="150px" height="30px">](https://www.buymeacoffee.com/gyoogle)
+
+<br>
+
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 <br>
