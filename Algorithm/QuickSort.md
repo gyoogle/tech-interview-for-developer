@@ -112,7 +112,7 @@ public static int partition(int[] array, int left, int right) {
     int mid = (left + right) / 2;
     swap(array, left, mid);
  
-    int pivot = array[mid];
+    int pivot = array[left];
     int i = left, j = right;
  
     while (i < j) {
