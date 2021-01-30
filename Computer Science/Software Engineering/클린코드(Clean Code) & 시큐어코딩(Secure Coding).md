@@ -125,7 +125,7 @@ Node* FindNodeInSubtree(Node* subtree, string name, int depth);
 
 온라인 투표로 예를 들어보자
 
-사용자가 추천을 하거나, 이미 선택한 추천을 변경하기 위해 버튼을 누르면 vote_change(old_vote, new_bote) 함수를 호출한다고 가정해보자
+사용자가 추천을 하거나, 이미 선택한 추천을 변경하기 위해 버튼을 누르면 vote_change(old_vote, new_vote) 함수를 호출한다고 가정해보자
 
 ```javascript
 var vote_changed = function (old_vote, new_vote) {
