@@ -10,7 +10,9 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/ko/thumb/a/a1/Von_Neumann_architecture_kor.png/375px-Von_Neumann_architecture_kor.png" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg" width="300">
+
+<br>
 
 즉, CPU와 하나의 메모리를 사용해 처리하는 현대 범용 컴퓨터들이 사용하는 구조 모델이다.
 
