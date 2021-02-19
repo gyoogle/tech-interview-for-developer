@@ -231,6 +231,10 @@
 
   - [[Javascript] ES2015+ 요약 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20ES2015%2B%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
 
+- ### Python
+
+  - [[Python] 매크로 사용법](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BPython%5D%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
+
 <br>
 
 ## 📌 Web
