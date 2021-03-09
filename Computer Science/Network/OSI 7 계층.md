@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://blogs.bmc.com/wp-content/uploads/2018/06/osi-model-7-layers-1140x1451.png">
+<img src="https://s7280.pcdn.co/wp-content/uploads/2018/06/osi-model-7-layers-1.png">
 
 <br>
 
