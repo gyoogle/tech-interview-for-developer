@@ -223,8 +223,7 @@ var candyMachine = {
         count: 5,
     },
     getCandy: function(){
-        this.status.count--;
-        return this.status.count;
+        return "Hi";
     }
 };
  
