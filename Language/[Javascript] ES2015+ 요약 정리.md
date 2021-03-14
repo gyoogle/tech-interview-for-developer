@@ -240,15 +240,17 @@ var count = candyMachine.status.count;
 const candyMachine1 = {
     status: {
         name: 'node',
-        count1: 5,
+        count: 5,
     },
     getCandy1() {
-        this.status.count--;
-        return this.status.count;
+        return "Hi";
     }
 };
  
-const { getCandy1, status: { count1 } } = candyMachine1;
+const { getCandy1, status: { count } } = candyMachine1;
+
+console.log(getCandy1()) // Hi
+console.log(count) // 5
 ```
 
 하지만 이처럼 간단하게 한 줄로 나타내는 것이 가능해졌다. 여러 단계 안의 속성도 count1을 가져오는 것처럼 작성이 가능하다.
