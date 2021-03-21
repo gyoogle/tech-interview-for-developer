@@ -17,7 +17,7 @@ public void quickSort(int[] array, int left, int right) {
     
     if(left >= right) return;
     
-    int pi = partition();
+    int pi = partition(array, left, right);
     
     quickSort(array, left, pi-1);
     quickSort(array, pi+1, right);
