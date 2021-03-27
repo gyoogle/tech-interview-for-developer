@@ -46,6 +46,9 @@
     2. SJF (Shortest Job First)
         - 수행시간이 가장 짧다고 판단되는 작업을 먼저 수행
         - FCFS 보다 평균 대기 시간 감소, 짧은 작업에 유리
+    3. HRN (Hightest Response-ratio Next)
+        - 우선순위를 계산하여 점유 불평등을 보완한 방법(SJF의 단점 보완)
+        - 우선순위 = (대기시간 + 실행시간) / (실행시간)
 
 - 선점 스케줄링
     1. Priority Scheduling
