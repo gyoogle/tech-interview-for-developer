@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://gyoogle.github.io)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FF66FF.svg?style=flat-square)](http://makeapullrequest.com)
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/watchers)
@@ -232,6 +232,8 @@
 - ### Javascript
 
   - [[Javascript] ES2015+ 요약 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20ES2015%2B%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
+  - [[Javascript] Object Prototype](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavasript%5D%20Object%20Prototype.md)
+  - [[Javascript] Closure](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20Closure.md)
 
 - ### Python
 
