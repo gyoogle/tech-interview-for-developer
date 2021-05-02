@@ -185,6 +185,8 @@
 - [팩토리 메소드 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Design%20Pattern_Factory%20Method.md)
 - [옵저버 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Observer%20pattern.md)
 - [스트레티지 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Strategy%20Pattern.md)
+- [컴포지트 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Composite%20Pattern.md)
+- [SOLID](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/SOLID.md)
 
 <br>
 
