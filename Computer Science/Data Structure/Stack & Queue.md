@@ -416,9 +416,8 @@ public Object deQueue(Object o) {
         return null;
     }
     
-    preIndex = front;
     front = (++front) % size;
-    Object o = queue[preIndex];
+    Object o = queue[front];
     return o;
 }
 ```
