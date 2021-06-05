@@ -1,9 +1,10 @@
 # tech-interview-for-developer
 
+[![Since](https://img.shields.io/badge/since-2019.03.01-333333.svg?style=flat-square)](https://gyoogle.github.io)
 [![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://gyoogle.github.io)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FF66FF.svg?style=flat-square)](http://makeapullrequest.com)
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/watchers)
@@ -16,9 +17,7 @@
 
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
-<br>
-
-**Since** : 2019.03.01 
+<br> 
 
 **Collaborator**
 
@@ -214,6 +213,7 @@
   - [[C++] 얕은 복사 vs 깊은 복사](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BCpp%5D%20shallow%20copy%20vs%20deep%20copy.md)
   - [[C++] 가상 함수(Virtual Function)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
   - [[C++] 입출력 최적화하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84%20%EC%A4%84%EC%9D%B4%EB%8A%94%20%EB%B2%95.md)
+  - [[C++] Vector Container](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20Vector%20Container.md)
 
 - ### Java
 
