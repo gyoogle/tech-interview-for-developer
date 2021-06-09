@@ -20,7 +20,7 @@
 
 |   평균   |   최선   |   최악   |
 | :------: | :------: | :------: |
-| O(nlogn) | O(nlogn) | O(nlogn) |
+| Θ(nlogn) | Ω(nlogn) | O(nlogn) |
 
 
 
