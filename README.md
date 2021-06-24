@@ -278,6 +278,7 @@
 - ##### Spring
 
   - [Spring Security - 인증 및 권한 부여](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Spring/Spring%20Security%20-%20Authentication%20and%20Authorization.md)
+  - [JPA](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Spring/JPA.md)
 
 - ##### Vue.js
   
