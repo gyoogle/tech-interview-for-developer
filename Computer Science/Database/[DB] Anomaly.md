@@ -30,7 +30,7 @@
 
 3. 삭제 이상 (Deletion Anomaly)
 
-   만약 어떤 학생이 수강을 철회하는 경우, {Student ID, Course ID, Department, Course ID, Grade}의 정보 중
+   만약 어떤 학생이 수강을 철회하는 경우, {Student ID, Department, Course ID, Grade}의 정보 중
 
    Student ID, Department 와 같은 학생에 대한 정보도 함께 삭제됨.
 
