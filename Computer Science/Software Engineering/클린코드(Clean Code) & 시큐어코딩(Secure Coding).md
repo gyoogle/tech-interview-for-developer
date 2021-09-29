@@ -196,7 +196,7 @@ var vote_changed = function (old_vote, new_vote) {
 
 ##### 코드 인스펙션(code inspection)
 
-> 작성한 개발 소스 코드를 분석하여 개발 표준에 위배되엇거나 잘못 작성된 부분을 수정하는 작업
+> 작성한 개발 소스 코드를 분석하여 개발 표준에 위배되었거나 잘못 작성된 부분을 수정하는 작업
 
 <br>
 
@@ -207,7 +207,7 @@ var vote_changed = function (old_vote, new_vote) {
 3. Preparation : 인스펙션을 위한 인터뷰, 산출물, 도구 준비
 4. Meeting : 검토 회의로 각자 역할을 맡아 임무 수행
 5. Rework : 발견한 결함을 수정하고 재검토 필요한지 여부 결정
-6. Fellow-up : 보고된 결함 및 이슈가 수정되었는지 확인하고 시정조치 이행
+6. Follow-up : 보고된 결함 및 이슈가 수정되었는지 확인하고 시정조치 이행
 
 <br>
 
@@ -270,7 +270,7 @@ ResultSet rs = stmt.executeQuery(query);
 - 안전한 코드
 
 ```
-String query "SELECT * FROM users WHERE userid = ? + "AND password = ?";
+String query "SELECT * FROM users WHERE userid = ? AND password = ?";
 
 PrepareStatement stmt = connection.prepareStatement(query);
 stmt.setString(1, userid);
@@ -282,6 +282,6 @@ ResultSet rs = stmt.executeQuery();
 
 <br>
 
-입력받는 값으 변수를 `$` 대신 `#`을 사용하면서 바인딩 처리로 시큐어 코딩이 가능하다.
+입력받는 값의 변수를 `$` 대신 `#`을 사용하면서 바인딩 처리로 시큐어 코딩이 가능하다.
 
 <br>
