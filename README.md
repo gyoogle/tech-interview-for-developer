@@ -11,7 +11,7 @@
 [![Star on GitHub](https://img.shields.io/github/stars/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/stargazers)
 [![Fork on GitHub](https://img.shields.io/github/forks/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/network/members)
 
-
+<br>
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-**🙏도움을 주신 분들🙏**
+<center>🙏도움을 주신 분들🙏</center>
 
 <br>
 
@@ -57,33 +57,6 @@
 #### 👨🏻‍🏫 [기술 면접 감 잡기](<https://github.com/gyoogle/tech-interview-for-developer/tree/master/Interview#%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0>) 👩🏻‍🏫
 
 ------
-
-<br>
-
-## 📌 Algorithm
-
-- [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
-- [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
-- [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20(Insertion%20Sort).md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-insertion-sort)
-- [퀵 정렬(Quick Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
-- [병합 정렬(Merge Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
-- [힙 정렬(Heap Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
-- [기수 정렬(Radix Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md>)
-- [계수 정렬(Count Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md>)
-- [이분 탐색(Binary Search)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
-- [해시 테이블 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
-- [DFS & BFS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/DFS%20%26%20BFS.md)
-- [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
-- [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
-- [동적 계획법(Dynamic Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
-- [다익스트라(Dijkstra) 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra).md)
-- [비트마스크(BitMask)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
-
-<br>
-
-- ##### ✏️ TEST
-
-  - [삼성 소프트웨어 역량테스트 PRO 등급 준비](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/SAMSUNG%20Software%20PRO%EB%93%B1%EA%B8%89%20%EC%A4%80%EB%B9%84.md)
 
 <br>
 
@@ -176,6 +149,35 @@
   - [서드 파티(3rd party)란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
   - [마이크로서비스 아키텍처(MSA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).md)
   
+
+<br>
+
+<br>
+
+## 📌 Algorithm
+
+- [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
+- [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
+- [삽입 정렬(Insertion Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20(Insertion%20Sort).md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-insertion-sort)
+- [퀵 정렬(Quick Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/QuickSort.md>)
+- [병합 정렬(Merge Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md>)
+- [힙 정렬(Heap Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/HeapSort.md>)
+- [기수 정렬(Radix Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Radix.md>)
+- [계수 정렬(Count Sort)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Sort_Counting.md>)
+- [이분 탐색(Binary Search)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Binary%20Search.md)
+- [해시 테이블 구현](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+- [DFS & BFS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/DFS%20%26%20BFS.md)
+- [최장 증가 수열(LIS)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LIS%20(Longest%20Increasing%20Sequence).md)
+- [최소 공통 조상(LCA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LCA(Lowest%20Common%20Ancestor).md)
+- [동적 계획법(Dynamic Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
+- [다익스트라(Dijkstra) 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra).md)
+- [비트마스크(BitMask)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
+
+<br>
+
+- ##### ✏️ TEST
+
+  - [삼성 소프트웨어 역량테스트 PRO 등급 준비](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/SAMSUNG%20Software%20PRO%EB%93%B1%EA%B8%89%20%EC%A4%80%EB%B9%84.md)
 
 <br>
 
@@ -360,7 +362,7 @@
 <br>
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_small)
 
 <br>
 
