@@ -238,6 +238,7 @@
   - [[Java] 직렬화(Serialization)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20%EC%A7%81%EB%A0%AC%ED%99%94(Serialization).md)
   - [[Java] Error & Exception](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Error%20%26%20Exception.md#error--exception)
   - [[Java] Stream API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Stream.md)
+  - [[Java] Record](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Record.md)
   
 - ### Javascript
 
