@@ -20,8 +20,8 @@
 ### 3. 프로세스 상태
 
 ![download (5)](https://user-images.githubusercontent.com/13609011/91695344-f2dfae80-eba8-11ea-9a9b-702192316170.jpeg)
-- 비선점 스케줄링 : `Interrupt`, `Scheduler Dispatch`
-- 선점 스케줄링 : `I/O or Event Wait`
+- 선점 스케줄링 : `Interrupt`, `I/O or Event Completion`, `I/O or Event Wait`, `Exit`
+- 비선점 스케줄링 : `I/O or Event Wait`, `Exit`
 
 ---
 
