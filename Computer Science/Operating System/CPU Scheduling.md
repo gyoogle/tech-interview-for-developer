@@ -14,8 +14,8 @@
 
 ### 2. 선점 / 비선점 스케줄링
 
-- 선점 (preemptive) : OS가 CPU의 사용권을 선점할 수 있는 경우, 강제 회수하는 경우
-- 비선점 (nonpreemptive) : 프로세스 종료 or I/O 등의 이벤트가 있을 때까지 실행 보장 (처리시간 예측 어려움)
+- 선점 (preemptive) : OS가 CPU의 사용권을 선점할 수 있는 경우, 강제 회수하는 경우 (처리시간 예측 어려움)
+- 비선점 (nonpreemptive) : 프로세스 종료 or I/O 등의 이벤트가 있을 때까지 실행 보장 (처리시간 예측 용이함)
 
 ### 3. 프로세스 상태
 
@@ -87,13 +87,8 @@
 
 ### 출처
 
-- 스케줄링 목표 : [https://jhnyang.tistory.com/29?category=815411](https://jhnyang.tistory.com/29?category=815411)
-- 프로세스 전이도 그림 출처 : [https://rebas.kr/852](https://rebas.kr/852)
-- CPU 스케줄링 종류 및 정의 참고 : [https://m.blog.naver.com/PostView.nhn?blogId=so_fragrant&logNo=80056608452&proxyReferer=https:%2F%2Fwww.google.com%2F](https://m.blog.naver.com/PostView.nhn?blogId=so_fragrant&logNo=80056608452&proxyReferer=https:%2F%2Fwww.google.com%2F)
-- 다단계큐 참고 : [https://jhnyang.tistory.com/28](https://jhnyang.tistory.com/28)
-- 다단계 피드백 큐 참고 : [https://jhnyang.tistory.com/156](https://jhnyang.tistory.com/156)
-
-
-
-### 기존 자료 (이미지 형태)
-[https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.PNG?raw=true](https://github.com/kim6394/tech-interview-for-developer/blob/master/resources/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.PNG?raw=true)
+- 스케줄링 목표 : [링크](https://jhnyang.tistory.com/29?category=815411)
+- 프로세스 전이도 그림 출처 : [링크](https://rebas.kr/852)
+- CPU 스케줄링 종류 및 정의 참고 : [링크](https://m.blog.naver.com/PostView.nhn?blogId=so_fragrant&logNo=80056608452&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- 다단계큐 참고 : [링크](https://jhnyang.tistory.com/28)
+- 다단계 피드백 큐 참고 : [링크](https://jhnyang.tistory.com/156)
