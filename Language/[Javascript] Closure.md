@@ -24,6 +24,7 @@ function func() {
     function func2() {
         console.log(x);
     }
+    func2();
 }
 
 func() // print 5
