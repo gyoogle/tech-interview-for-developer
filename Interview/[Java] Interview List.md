@@ -1,4 +1,4 @@
-﻿# [Java ]Interview List
+﻿# [Java] Interview List
 
 > - 간단히 개념들을 정리해보며 머리 속에 넣자~
 > - 질문 자체에 없는 질문 의도가 있는 경우 추가 했습니다.
