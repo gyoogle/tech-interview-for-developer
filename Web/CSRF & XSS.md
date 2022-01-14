@@ -65,6 +65,10 @@ CSRF와 같이 웹 어플리케이션 취약점 중 하나로, 관리자가 아�
 
   웹 방화벽은 웹 공격에 특화된 것으로, 다양한 Injection을 한꺼번에 방어할 수 있는 장점이 있다.
 
+- ##### CORS, SOP 설정
+  
+  CORS(Cross-Origin Resource Sharing), SOP(Same-Origin-Policy)를 통해 리소스의 Source를 제한 하는것이 효과적인 방어 방법이 될 수 있다. 웹 서비스상 취약한 벡터에 공격 스크립트를 삽입 할 경우, 치명적인 공격을 하기 위해 스크립트를 작성하면 입력값 제한이나 기타 요인 때문에 공격 성공이 어렵다. 그러나 공격자의 서버에 위치한 스크립트를 불러 올 수 있다면 이는 상대적으로 쉬워진다. 그렇기 떄문에 CORS, SOP를 활용 하여 사전에 지정된 도메인이나 범위가 아니라면 리소스를 가져올 수 없게 제한해야 한다. 
+
 <br>
 
 <br>
@@ -74,3 +78,5 @@ CSRF와 같이 웹 어플리케이션 취약점 중 하나로, 관리자가 아�
 - [링크](https://itstory.tk/entry/CSRF-%EA%B3%B5%EA%B2%A9%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-CSRF-%EB%B0%A9%EC%96%B4-%EB%B0%A9%EB%B2%95)
 
 - [링크](https://noirstar.tistory.com/266)
+
+- [링크](https://evan-moon.github.io/2020/05/21/about-cors/) 
