@@ -14,7 +14,7 @@ aaaa.bbbbb.ccccc 의 구조로 앞부터 헤더(header), 내용(payload), 서명
 ### 헤더 (Header)
 헤더는 typ와 alg 두가지의 정보를 지니고 있습니다.
 typ는 토큰의 타입을 지정합니다. JWT이기에 "JWT"라는 값이 들어갑니다.
-alg : 해싱 알고리즘을 지정합니다. 기본적으로 HMAC, SHA256, RSA가 사용되면 토근을 검증 할 때 사용되는 signature부분에서 사용됩니다.
+alg : 해싱 알고리즘을 지정합니다. 기본적으로 HMAC, SHA256, RSA가 사용되면 토큰을 검증 할 때 사용되는 signature부분에서 사용됩니다.
 ```
 {
 	"typ" : "JWT",
