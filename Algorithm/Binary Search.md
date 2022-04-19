@@ -30,29 +30,21 @@ public static int solution(int[] arr, int M) { // arr 배열에서 M을 찾자
 	
     Arrays.sort(arr); // 정렬
 	
-	int start = 0; // 시작
-	int end = arr[arr.length-1]; // 끝
-	
-	while(start <= end) {
-		
-		int sum = 0;
-		int mid = (start+end)/2; // 시작과 끝의 중간값
-		
-		for (int i = 0; i < arr.length; i++) {
-			if(arr[i] > mid)
-				sum+=mid;
-			else
-				sum+=arr[i];
-		}
-		
-		if(sum > M)
-			end = mid - 1;
-		else
-			start = mid + 1;
-		
-	}
-    
-	return end;
+    int start = 0;
+    int end = arr.length - 1;
+    int mid = 0;
+
+    while (start <= end) {
+        mid = (start + end) / 2;
+        if (M == arr[mid]) {
+            return mid;
+        }else if (arr[mid] < M) {
+            start = mid + 1;
+        }else if (M < arr[mid]) {
+            end = mid - 1;
+        }
+    }
+    throw new NoSuchElementException("타겟 존재하지 않음");
 }
 ```
 
