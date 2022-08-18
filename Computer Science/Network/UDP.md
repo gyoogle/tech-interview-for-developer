@@ -104,3 +104,4 @@ Zone transfer 을 사용해야하는 경우에는 TCP를 사용해야 함.
 
 - <https://www.geeksforgeeks.org/why-does-dns-use-udp-and-not-tcp/>
 - <https://support.microsoft.com/en-us/help/556000>
+- <https://www.scaler.com/topics/domain-name-system/>
