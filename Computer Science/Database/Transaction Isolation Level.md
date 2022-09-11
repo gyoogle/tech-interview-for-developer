@@ -52,7 +52,7 @@
 
    Commit이 이루어진 트랜잭션만 조회 가능
 
-   SQL 서버가 Default로 사용하는 Isolation Level임
+   대부분의 SQL 서버가 Default로 사용하는 Isolation Level임
 
    ```
    사용자1이 A라는 데이터를 B라는 데이터로 변경하는 동안 사용자2는 해당 데이터에 접근이 불가능함
@@ -67,6 +67,8 @@
    트랜잭션이 범위 내에서 조회한 데이터 내용이 항상 동일함을 보장함
 
    다른 사용자는 트랜잭션 영역에 해당되는 데이터에 대한 수정 불가능
+  
+   MySQL에서 Default로 사용하는 Isolation Level
 
    <br>
 
@@ -98,17 +100,20 @@ Isolation Level에 대한 조정은, 동시성과 데이터 무결성에 연관�
 
   > 커밋되지 않은 수정중인 데이터를 다른 트랜잭션에서 읽을 수 있도록 허용할 때 발생하는 현상
   >
-  > 어떤 트랜잭션에서 아직 실행이 끝나지 않은 다른 트랜잭션에 의한 변경사항을 보게되는 경우
+  > 어떤 트랜잭션에서 아직 실행이 끝나지 않은 다른 트랜잭션에 의한 변경사항을 보게되는 경우  
+  - 발생 Level: Read Uncommitted
 
 - Non-Repeatable Read
 
   > 한 트랜잭션에서 같은 쿼리를 두 번 수행할 때 그 사이에 다른 트랜잭션 값을 수정 또는 삭제하면서 두 쿼리의 결과가 상이하게 나타나는 일관성이 깨진 현상
+  - 발생 Level: Read Committed, Read Uncommitted
 
 - Phantom Read
 
   > 한 트랜잭션 안에서 일정 범위의 레코드를 두 번 이상 읽었을 때, 첫번째 쿼리에서 없던 레코드가 두번째 쿼리에서 나타나는 현상
   >
   > 트랜잭션 도중 새로운 레코드 삽입을 허용하기 때문에 나타나는 현상임
+  - 발생 Level: Repeatable Read, Read Committed, Read Uncommitted
 
 
 
