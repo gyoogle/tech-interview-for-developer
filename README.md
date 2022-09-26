@@ -321,6 +321,7 @@
 
   - [[AWS] Spring Boot 배포 스크립트 생성](https://github.com/gyoogle/tech-interview-for-developer/tree/master/Web/DevOps)
   - [[Travis CI] 프로젝트 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%5BTravis%20CI%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
+  - [시스템 규모 확장](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5.md)
 
 
 <br>
