@@ -267,6 +267,8 @@
 
 - [쿠키(Cookie) & 세션(Session)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
 
+- [HTTP Request Methods](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/HTTP%20Request%20Methods.md)
+
 - [HTTP Status Code](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md)
 
 - [REST API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
