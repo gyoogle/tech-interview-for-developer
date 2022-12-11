@@ -4,7 +4,7 @@
 [![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://gyoogle.github.io)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FF66FF.svg?style=flat-square)](http://makeapullrequest.com)
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/watchers)
@@ -248,6 +248,7 @@
   - [[Java] Error & Exception](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Error%20%26%20Exception.md#error--exception)
   - [[Java] Stream API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Stream.md)
   - [[Java] Record](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Record.md)
+  - [[Java] Interend String in Java](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Interned%20String%20in%20JAVA.md)
   
 - ### Javascript
 
@@ -319,7 +320,7 @@
   - [React Hook](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20Hook.md)
   - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
   
-- ##### Devops
+- ##### DevOps
 
   - [[AWS] Spring Boot 배포 스크립트 생성](https://github.com/gyoogle/tech-interview-for-developer/tree/master/Web/DevOps)
   - [[Travis CI] 프로젝트 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%5BTravis%20CI%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
