@@ -249,6 +249,7 @@
   - [[Java] Stream API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Stream.md)
   - [[Java] Record](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Record.md)
   - [[Java] Interend String in Java](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Interned%20String%20in%20JAVA.md)
+  - [[Java] Composition](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98(Composition).md)
   
 - ### Javascript
 
