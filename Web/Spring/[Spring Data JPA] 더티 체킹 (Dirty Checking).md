@@ -1,10 +1,7 @@
-# [Spring Data JPA] 더티 체킹 (Dirty Checking)
+# [JPA] 더티 체킹 (Dirty Checking)
 
 <br>
 
-<img src="https://cdn.inflearn.com/public/courses/324474/course_cover/58c8632c-7a6e-4c76-9893-d7fffa32faf2/kyh_JPA_Spring2%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%206.png">
-
-<br>
 
 ```
 트랜잭션 안에서 Entity의 변경이 일어났을 때
