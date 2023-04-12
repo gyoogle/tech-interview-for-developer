@@ -344,7 +344,7 @@ setupHelp();
 ```
 
 ## Performane consideration
-closure가 필요하지 않을 때 closure를 만드는 것은 메모리와 속도에 악영향을 끼치낟.
+closure가 필요하지 않을 때 closure를 만드는 것은 메모리와 속도에 악영향을 끼친다.
 
 예를들어, 새로운 object/class를 만들 때, method는 object의 생성자 대신에 object의 prototype에 있는 것이 좋다. 왜냐하면 생성자가 호출될 때마다, method는 reassign 되기 때문이다.
 ```js
