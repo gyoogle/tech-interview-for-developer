@@ -24,12 +24,16 @@
     - 기본 개념은 receiver가 sender에게 현재 자신의 상태를 feedback 한다는 점
   - 혼잡제어 : 송신측의 데이터 전달과 네트워크의 데이터 처리 속도 차이를 해결하기 위한 기법
 - 전송의 전체 과정
-  - Application layer : sender application layer가 socket에 data를 씀.
-  - Transport layer : data를 segment에 감싼다. 그리고 network layer에 넘겨줌.
-  - 그러면 아랫단에서 어쨋든 receiving node로 전송이 됨. 이 때,  sender의 send buffer에 data를 저장하고, receiver는 receive buffer에 data를 저장함.
-  - application에서 준비가 되면 이 buffer에 있는 것을 읽기 시작함.
-  - 따라서 flow control의 핵심은 이 receiver buffer가 넘치지 않게 하는 것임.
-  - 따라서 receiver는 RWND(Receive WiNDow) : receive buffer의 남은 공간을 홍보함
+  - 응용 계층(Application Layer)에서 데이터를 전송할 때, 보내는 쪽(sender)의 애플리케이션(Application)은 소켓(Socket)에 데이터를 쓰게 됩니다. 
+  - 이 데이터는 전송 계층(Transport Layer)으로 전달되어 세그먼트(Segment)라는 작은 단위로 나누어집니다. 
+  - 전송 계층은 이 세그먼트를 네트워크 계층(Network Layer)에 넘겨줍니다.
+  - 전송된 데이터는 수신자(receiver) 쪽으로 전달되어, 수신자 쪽에서는 수신 버퍼(Receive Buffer)에 저장됩니다. 
+  - 이때, 수신자 쪽에서는 수신 버퍼의 용량을 넘치게 하지 않도록 조절해야 합니다. 
+  - 수신자 쪽에서는 자신의 수신 버퍼의 남은 용량을 상대방(sender)에게 알려주는데, 이를 "수신 윈도우(Receive Window)"라고 합니다.
+  - 송신자(sender)는 수신자의 수신 윈도우를 확인하여 수신자의 수신 버퍼 용량을 초과하지 않도록 데이터를 전송합니다. 
+  - 이를 통해 데이터 전송 중에 수신 버퍼가 넘치는 현상을 방지하면서, 안정적인 데이터 전송을 보장합니다. 이를 "플로우 컨트롤(Flow Control)"이라고 합니다.
+
+따라서, 플로우 컨트롤은 전송 중에 발생하는 수신 버퍼의 오버플로우를 방지하면서, 안정적인 데이터 전송을 위해 중요한 기술입니다.
 
 #### 1. 흐름제어 (Flow Control)
 
