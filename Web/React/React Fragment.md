@@ -87,7 +87,7 @@ div 태그 대신에 Fragment로 감싸주면 문제가 해결된다. Fragment�
 
 <br>
 
-Frament로 명시하지 않고, 빈 태그로도 가능하다.
+Fragment로 명시하지 않고, 빈 태그로도 가능하다.
 
 ```JSX
 import { Component } from 'React'
