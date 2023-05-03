@@ -31,7 +31,7 @@
   - UDP의 결정적인 장점은 데이터의 신속성이다. 데이터의 처리가 TCP보다 빠르다.
   - 주로 실시간 방송과 온라인 게임에서 사용된다. 네트워크 환경이 안 좋을때, 끊기는 현상을 생각하면 된다.
 
-- DNS(Domain Name Service)에서 UDP를 사용하는 이유
+- DNS(Domain Name System)에서 UDP를 사용하는 이유
 
   - Request의 양이 작음 -> UDP Request에 담길 수 있다.
   - 3 way handshaking으로 연결을 유지할 필요가 없다. (오버헤드 발생)
