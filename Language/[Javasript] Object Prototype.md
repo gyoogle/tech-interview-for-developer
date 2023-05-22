@@ -2,7 +2,7 @@
 Prototype은 JavaScript object가 다른 object에서 상속하는 매커니즘이다. 
 
 ## A prototype-based language?
-JavaScript는 종종 prototype-based language로 설명된다. prototype-based language는 상속을 지원하고 object는 prototype object를 갖는다. prototyp object는 method와 property를 상속하는 template object 같은 것이다.
+JavaScript는 종종 prototype-based language로 설명된다. prototype-based language는 상속을 지원하고 object는 prototype object를 갖는다. prototype object는 method와 property를 상속하는 template object 같은 것이다.
 
 object의 prototype object 또한 prototype object를 가지고 있으며 이것을 **prototype chain** 이라고 부른다.
 
@@ -23,7 +23,7 @@ function Person(first, last, age, gender, interests) {
   //...see link in summary above for full definition
 }
 ```
-우리는 object instace를 아래와 같이 만들 수 있다.
+우리는 object instance를 아래와 같이 만들 수 있다.
 ```js
 let person1 = new Person('Bob', 'Smith', 32, 'male', ['music', 'skiing']);
 ```
