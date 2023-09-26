@@ -15,9 +15,8 @@ C++로 알고리즘 문제를 풀 때, `cin, cout`은 실행속도가 느리다.
 ```c++
 int main(void)
 {
-    ios_base :: sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
 }
 ```
 
