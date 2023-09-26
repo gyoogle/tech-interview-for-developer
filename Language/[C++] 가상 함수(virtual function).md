@@ -13,7 +13,7 @@
 - 클래스의 public 영역에 선언해야 한다.
 - 가상 함수는 static일 수 없다.
 - 실행시간 다형성을 얻기 위해, 기본 클래스의 포인터 또는 참조를 통해 접근해야 한다.
-- 가상 함수는 반환형과 매개변수가 자식 클래스에서도 일치해야 한다.
+- 가상 함수는 반환형과 매개변수가 자식 클래스에서도 호환되어야 한다.
 
 ```c++
 class parent {
@@ -28,7 +28,7 @@ public :
  
 class child : public parent {
 public :
-    void v_print() {
+    void v_print() override {
         cout << "child" << "\n";
     }
     void print() {
