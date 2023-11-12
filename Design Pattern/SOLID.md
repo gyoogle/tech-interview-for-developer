@@ -45,7 +45,7 @@ Register 클래스가 Student 클래스에 dependency를 가지고 있는 모습
 
 ![](https://images.velog.io/images/whow1101/post/c7db57cb-5579-45eb-b999-ffc2f57b2061/overview_pattern_2.PNG)
 
-하지만 Register 클래스는 어떠한 변경도 일어나야하지 않지만 Student 클래스가 바뀌어서 Register 클래스가 영향을 받는다. 정렬을 위한 변경이 관련없는 Reigster 클래스에 영향을 끼쳤기 때문에 SRP를 위반한다.
+하지만 Register 클래스는 어떠한 변경도 일어나야하지 않지만 Student 클래스가 바뀌어서 Register 클래스가 영향을 받는다. 정렬을 위한 변경이 관련없는 Register 클래스에 영향을 끼쳤기 때문에 SRP를 위반한다.
 
 ![](https://images.velog.io/images/whow1101/post/ddd405f3-ad24-40ac-bf58-b7d9629006f8/overview_pattern_3.PNG)
 
@@ -107,7 +107,7 @@ dataValue = date.getDate(); // throws IllegalArgumentException
 
 ![](https://images.velog.io/images/whow1101/post/e3fcc38c-4cd1-4bcf-b0f9-108787d30a1b/overview_pattern_7.PNG)
 
-위의 예제엇 만약 List의 Implemenation을 재사용하게 된다면 inheritance보다 object composition을 사용하는 것을 추천한다.
+위의 예제에서 만약 List의 Implemenation을 재사용하게 된다면 inheritance보다 object composition을 사용하는 것을 추천한다.
 
 위에서 Queue 클래스가 List 클래스를 inheritance 한다면 LSP를 위반하게 된다.
 
