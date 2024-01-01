@@ -56,7 +56,7 @@
         - 우선 순위가 낮은 프로세스가 무한정 기다리는 Starvation 이 생길 수 있음
         - Aging 방법으로 Starvation 문제 해결 가능
     2. Round Robin
-        - FCFS에 의해 프로세스들이 보내지면 각 프로세스는 동일한 시간의 `Time Quantum` 만큼 CPU를 할달 받음
+        - FCFS에 의해 프로세스들이 보내지면 각 프로세스는 동일한 시간의 `Time Quantum` 만큼 CPU를 할당 받음
             - `Time Quantum` or `Time Slice` : 실행의 최소 단위 시간
         - 할당 시간(`Time Quantum`)이 크면 FCFS와 같게 되고, 작으면 문맥 교환 (Context Switching) 잦아져서 오버헤드 증가
     3. Multilevel-Queue (다단계 큐)
@@ -74,7 +74,7 @@
         - 다단계 큐에서 자신의 `Time Quantum`을 다 채운 프로세스는 밑으로 내려가고 자신의 `Time Quantum`을 다 채우지 못한 프로세스는 원래 큐 그대로
             - Time Quantum을 다 채운 프로세스는 CPU burst 프로세스로 판단하기 때문
         - 짧은 작업에 유리, 입출력 위주(Interrupt가 잦은) 작업에 우선권을 줌
-        - 처리 시간이 짧은 프로세스를 먼저 처리하기 때문에 Turnaround 평균 시간을 줄옂줌
+        - 처리 시간이 짧은 프로세스를 먼저 처리하기 때문에 Turnaround 평균 시간을 줄여줌
 
 ### 5. CPU 스케줄링 척도
 
