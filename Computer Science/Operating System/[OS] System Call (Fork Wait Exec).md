@@ -25,9 +25,9 @@ int main(int argc, char *argv[]) {
     
     int rc = fork();					// 주목
     
-    if (rc < 0) {
+    if (rc < 0) {					    // (1) fork 실패
         exit(1);
-    }									// (1) fork 실패
+    }
     else if (rc == 0) {					// (2) child 인 경우 (fork 값이 0)
         printf("child (pid : %d)", (int) getpid());
     }
@@ -87,9 +87,9 @@ int main(int argc, char *argv[]) {
     
     int rc = fork();					// 주목
     
-    if (rc < 0) {
+    if (rc < 0) {					    // (1) fork 실패
         exit(1);
-    }									// (1) fork 실패
+    }
     else if (rc == 0) {					// (2) child 인 경우 (fork 값이 0)
         printf("child (pid : %d)", (int) getpid());
     }
@@ -127,9 +127,9 @@ int main(int argc, char *argv[]) {
     
     int rc = fork();					// 주목
     
-    if (rc < 0) {
+    if (rc < 0) {					    // (1) fork 실패
         exit(1);
-    }									// (1) fork 실패
+    }
     else if (rc == 0) {					// (2) child 인 경우 (fork 값이 0)
         printf("child (pid : %d)", (int) getpid());
         char *myargs[3];
