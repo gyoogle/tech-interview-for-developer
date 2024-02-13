@@ -160,7 +160,7 @@ public int getTotalPrice(int price, int quantity, double discount) {
 ```java
 // 수정 후
 public int getTotalFoodPrice(int price, int quantity, double discount) {
-	int totalPriceQuantity = price * quantity;
+    int totalPriceQuantity = price * quantity;
     return (int) (totalPriceQuantity - getDiscountPrice(discount, totalPriceQuantity))
 }
 
