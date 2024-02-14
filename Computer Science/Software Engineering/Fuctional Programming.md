@@ -154,19 +154,19 @@ public class stream {
 	public static void main(String[] args) {
 		List<String> myList = Arrays.asList("a", "b", "c", "d", "e");
  
-        // 기존방식
-        for(int i=0; i<myList.size(); i++){
-            String s = myList.get(i);
-            if(s.startsWith("c")){
-                System.out.println(s.toUpperCase());
-            }
-        }
+                // 기존방식
+                for(int i=0; i<myList.size(); i++){
+                    String s = myList.get(i);
+                    if(s.startsWith("c")){
+                        System.out.println(s.toUpperCase());
+                    }
+                }
  
-        // stream API를 이용한 방식
-        myList.stream()
-              .filter(s -> s.startsWith("c"))
-              .map(String::toUpperCase)
-              .forEach(System.out::println);
+                // stream API를 이용한 방식
+                myList.stream()
+                      .filter(s -> s.startsWith("c"))
+                      .map(String::toUpperCase)
+                      .forEach(System.out::println);
  
 	}
 
