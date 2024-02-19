@@ -164,7 +164,7 @@ R1 = 0*arr[n-1] + 1*arr[0] +...+ (n-1)*arr[n-2]
 R1 - R0 = arr[0] + arr[1] + ... + arr[n-2] - (n-1)*arr[n-1]
 
 2번 회전하고 i*arr[i]의 sum을 저장한 값
-R2 = 0*arr[n-2] + 1*arr[n-1] +...+ (n?1)*arr[n-3]
+R2 = 0*arr[n-2] + 1*arr[n-1] +...+ (n-1)*arr[n-3]
 
 1번 회전한 값과 빼면?
 R2 - R1 = arr[0] + arr[1] + ... + arr[n-3] - (n-1)*arr[n-2] + arr[n-1]
