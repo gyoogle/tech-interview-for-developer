@@ -121,3 +121,32 @@ IR에 MBR의 값이 이미 저장된 상태를 의미함
 
 따라서 AC에 MBR을 더해주기만 하면 됨
 
+> LOAD addr 명령어 연산
+
+```
+T0 : MAR ← IR(Addr)
+T1 : MBR ← M[MAR]
+T2 : AC ← MBR
+```
+
+기억장치에 있는 데이터를 AC로 이동하는 명령어
+
+> STA addr 명령어 연산
+
+```
+T0 : MAR ← IR(Addr)
+T1 : MBR ← AC
+T2 : M[MAR] ← MBR
+```
+
+AC에 있는 데이터를 기억장치로 저장하는 명령어
+
+> JUMP addr 명령어 연산
+
+```
+T0 : PC ← IR(Addr)
+```
+
+PC값을 IR의 주소값으로 변경하는 분기 명령어
+
+
