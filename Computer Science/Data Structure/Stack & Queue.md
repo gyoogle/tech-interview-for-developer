@@ -76,7 +76,7 @@ public Object pop() {
 ##### isEmpty
 
 ```java
-private boolean isEmpty(int cnt) {
+private boolean isEmpty(int sp) {
     return sp == -1 ? true : false;
 }
 ```
@@ -88,7 +88,7 @@ private boolean isEmpty(int cnt) {
 ##### isFull
 
 ```java
-private boolean isFull(int cnt) {
+private boolean isFull(int sp) {
     return sp + 1 == MAX_SIZE ? true : false;
 }
 ```
