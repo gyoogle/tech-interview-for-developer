@@ -41,9 +41,9 @@ int parent[] = {0, 1, 1, 2, 2, 3, 3}
 while(true){
 	if(depth가 일치)
 		if(두 정점의 parent 일치?) LCA 찾음(종료)
-        else 두 정점을 자신의 parent 정점 값으로 변경
-    else // depth 불일치
-        더 depth가 깊은 정점을 해당 정점의 parent 정점으로 변경(depth가 감소됨)
+        	else 두 정점을 자신의 parent 정점 값으로 변경
+    	else // depth 불일치
+        	더 depth가 깊은 정점을 해당 정점의 parent 정점으로 변경(depth가 감소됨)
 }
 ```
 
