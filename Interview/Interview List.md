@@ -4,17 +4,17 @@
 
 <br>
 
-- [언어(Java, C++ ... )](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#언어>)
-- [운영체제](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#운영체제>)
-- [데이터베이스](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#데이터베이스>)
-- [네트워크](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#네트워크)
-- [스프링](https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/README.md#스프링)
+- [언어(Java, C++…)](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/Interview List.md#언어c-등>)
+- [운영체제](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/Interview List.md#운영체제>)
+- [데이터베이스](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/Interview List.md#데이터베이스>)
+- [네트워크](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/Interview List.md#네트워크>)
+- [스프링](<https://github.com/kim6394/Dev_BasicKnowledge/blob/master/Interview/Interview List.md#스프링>)
 
 <br>
 
 <br>
 
-### 언어(C++ 등..)
+### 언어(C++ 등)
 
 ---
 
