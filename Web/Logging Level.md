@@ -2,10 +2,11 @@
 
 <br>
 
-보통 log4j 라이브러리를 활용한다.
+로그 레벨은 애플리케이션에서의 이벤트에 대한 로그 메시지의 심각성의 수준을 나타내는 기준이다. 주요 목적은 단순히 정보제공 메시지와 오류 감지 메시지를 구분하는 것이다.
 
-크게 ERROR, WARN, INFO, DEBUG로 로그 레벨을 나누어 작성한다.
+보통 log4j 라이브러리를 활용한다. (일부 버전에서 취약점이 있으므로 사용에 주의해야 한다.)
 
+대부분의 로깅 라이브러리에서 FATAL, ERROR, WARN, INFO, DEBUG, TRACE 로그 레벨을 제공하며, 주로 사용하는 로그 레벨은 ERROR, WARN, INFO, DEBUG이다.
 <br>
 
 - #### ERROR
@@ -27,7 +28,7 @@
 
 - #### INFO
 
-  중요한 비즈니스 프로세스가 시작될 때와 종료될 때를 알려주는 로그
+  애플리케이션의 주요 이벤트나 실행 상태에 대한 정보를 전달한다. 주로 비즈니스 목적에 중요한 시스템 이벤트를 기록한다.
 
   `~가 ~를 실행했음`
 
@@ -35,7 +36,7 @@
 
 - #### DEBUG
 
-  개발자가 기록할 가치가 있는 정보를 남기기 위해 사용하는 레벨
+  디버깅의 목적으로 개발 단계에서 상세한 정보를 기록한다. 애플리케이션 내부 동작을 이해하고 트러블슈팅하는데 도움을 준다.
 
 <br>
 
@@ -44,4 +45,6 @@
 ##### [참고사항]
 
 - [링크](https://jangiloh.tistory.com/18)
+- [log4j architecture](https://logging.apache.org/log4j/2.x/manual/architecture.html)
+- [log4j vs logback vs log4j2](https://stackify.com/compare-java-logging-frameworks/)
 
