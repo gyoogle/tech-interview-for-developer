@@ -67,7 +67,7 @@ public Object pop() {
 }
 ```
 
-스택 포인터가 0이 되면 null로 return;
+스택 포인터가 -1이 되면 null로 return;
 
 아니면 스택의 최상위 위치 값을 꺼내옴
 
