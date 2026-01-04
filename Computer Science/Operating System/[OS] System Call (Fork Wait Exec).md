@@ -119,6 +119,7 @@ child에서는 parent와 다른 동작을 하고 싶을 때는 exec를 사용할
 ```c
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <unistd.h>
 #include <sys/wait.h>
 
@@ -137,10 +138,10 @@ int main(int argc, char *argv[]) {
         myargs[1] = strdup("p3.c");		// 실행할 파일에 넘겨줄 argument
         myargs[2] = NULL;				// end of array
         execvp(myarges[0], myargs);		// wc 파일 실행.
-        printf("this shouldn't print out") // 실행되지 않음.
+        printf("this shouldn't print out"); // 실행되지 않음.
     }
     else {								// (3) parent case
-        int wc = wait(NULL)				// 추가된 부분
+        int wc = wait(NULL);			// 추가된 부분
         printf("parent of %d (wc : %d / pid : %d)", wc, rc, (int)getpid());
     }
 }
